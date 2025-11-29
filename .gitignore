@@ -109,3 +109,7 @@ fluidaudio_cli/*
 .vscode/
 
 .mobius/
+
+output.json
+segments.json
+testpod.mp3

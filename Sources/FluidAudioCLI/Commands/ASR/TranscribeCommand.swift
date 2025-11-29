@@ -99,6 +99,79 @@ struct WordTiming: Sendable {
     let confidence: Float
 }
 
+// MARK: - JSON Output Structures
+
+/// JSON output segment structure
+struct TranscriptionSegment: Codable {
+    let start: Double
+    let end: Double
+    let text: String
+}
+
+/// Root JSON output structure
+struct TranscriptionOutput: Codable {
+    let text: String
+    let segments: [TranscriptionSegment]
+}
+
+// MARK: - Sentence Segmentation
+
+/// Helper to group word timings into sentence-level segments
+enum SentenceSegmenter {
+    /// Group word timings into sentences based on punctuation boundaries
+    ///
+    /// - Parameter wordTimings: Array of word-level timing information
+    /// - Returns: Array of sentence-level segments
+    ///
+    /// Sentence boundaries are detected by:
+    /// - Ending punctuation: . ! ? followed by space or end of text
+    /// - Commas create pauses but don't break sentences unless followed by long gaps
+    static func groupIntoSentences(_ wordTimings: [WordTiming]) -> [TranscriptionSegment] {
+        guard !wordTimings.isEmpty else { return [] }
+        
+        var segments: [TranscriptionSegment] = []
+        var currentWords: [WordTiming] = []
+        
+        for (index, word) in wordTimings.enumerated() {
+            currentWords.append(word)
+            
+            // Check if this word ends a sentence
+            let endsWithPunctuation = word.word.hasSuffix(".") ||
+                                     word.word.hasSuffix("!") ||
+                                     word.word.hasSuffix("?")
+            
+            // Also check for long pauses that might indicate sentence boundaries
+            var hasLongPause = false
+            if index + 1 < wordTimings.count {
+                let nextWord = wordTimings[index + 1]
+                let gap = nextWord.startTime - word.endTime
+                hasLongPause = gap > 1.0  // 1 second pause
+            }
+            
+            let isLastWord = index == wordTimings.count - 1
+            
+            // End sentence if we hit punctuation, long pause, or last word
+            if endsWithPunctuation || hasLongPause || isLastWord {
+                if !currentWords.isEmpty {
+                    let startTime = currentWords.first!.startTime
+                    let endTime = currentWords.last!.endTime
+                    let text = currentWords.map { $0.word }.joined(separator: " ")
+                    
+                    segments.append(TranscriptionSegment(
+                        start: startTime,
+                        end: endTime,
+                        text: text
+                    ))
+                    
+                    currentWords.removeAll()
+                }
+            }
+        }
+        
+        return segments
+    }
+}
+
 /// Helper to merge tokens into word-level timings
 ///
 /// This merger assumes that the ASR tokenizer produces subword tokens where:
@@ -191,6 +264,7 @@ enum TranscribeCommand {
         var streamingMode = false
         var showMetadata = false
         var wordTimestamps = false
+        var jsonOutput = false
         var modelVersion: AsrModelVersion = .v3  // Default to v3
 
         // Parse options
@@ -206,6 +280,8 @@ enum TranscribeCommand {
                 showMetadata = true
             case "--word-timestamps":
                 wordTimestamps = true
+            case "--json":
+                jsonOutput = true
             case "--model-version":
                 if i + 1 < arguments.count {
                     switch arguments[i + 1].lowercased() {
@@ -231,18 +307,18 @@ enum TranscribeCommand {
             )
             await testStreamingTranscription(
                 audioFile: audioFile, showMetadata: showMetadata, wordTimestamps: wordTimestamps,
-                modelVersion: modelVersion)
+                jsonOutput: jsonOutput, modelVersion: modelVersion)
         } else {
             logger.info("Using batch mode with direct processing\n")
             await testBatchTranscription(
                 audioFile: audioFile, showMetadata: showMetadata, wordTimestamps: wordTimestamps,
-                modelVersion: modelVersion)
+                jsonOutput: jsonOutput, modelVersion: modelVersion)
         }
     }
 
     /// Test batch transcription using AsrManager directly
     private static func testBatchTranscription(
-        audioFile: String, showMetadata: Bool, wordTimestamps: Bool, modelVersion: AsrModelVersion
+        audioFile: String, showMetadata: Bool, wordTimestamps: Bool, jsonOutput: Bool, modelVersion: AsrModelVersion
     ) async {
         do {
             // Initialize ASR models
@@ -278,6 +354,33 @@ enum TranscribeCommand {
             let processingTime = Date().timeIntervalSince(startTime)
 
             // Print results
+            if jsonOutput {
+                // Output JSON format with sentence-level segments
+                if let tokenTimings = result.tokenTimings, !tokenTimings.isEmpty {
+                    let wordTimings = WordTimingMerger.mergeTokensIntoWords(tokenTimings)
+                    let segments = SentenceSegmenter.groupIntoSentences(wordTimings)
+                    let output = TranscriptionOutput(text: result.text, segments: segments)
+                    let encoder = JSONEncoder()
+                    encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+                    if let jsonData = try? encoder.encode(output),
+                       let jsonString = String(data: jsonData, encoding: .utf8) {
+                        print(jsonString)
+                    } else {
+                        logger.error("Failed to encode JSON output")
+                    }
+                } else {
+                    // No timings available, output simple JSON with empty segments
+                    let output = TranscriptionOutput(text: result.text, segments: [])
+                    let encoder = JSONEncoder()
+                    encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+                    if let jsonData = try? encoder.encode(output),
+                       let jsonString = String(data: jsonData, encoding: .utf8) {
+                        print(jsonString)
+                    }
+                }
+                return  // Skip the rest of the output
+            }
+            
             logger.info("" + String(repeating: "=", count: 50))
             logger.info("BATCH TRANSCRIPTION RESULTS")
             logger.info(String(repeating: "=", count: 50))
@@ -352,7 +455,7 @@ enum TranscribeCommand {
 
     /// Test streaming transcription
     private static func testStreamingTranscription(
-        audioFile: String, showMetadata: Bool, wordTimestamps: Bool, modelVersion: AsrModelVersion
+        audioFile: String, showMetadata: Bool, wordTimestamps: Bool, jsonOutput: Bool, modelVersion: AsrModelVersion
     ) async {
         // Use optimized streaming configuration
         let config = StreamingAsrConfig.streaming
@@ -490,6 +593,33 @@ enum TranscribeCommand {
             let processingTime = await tracker.getElapsedProcessingTime()
             let finalRtfx = processingTime > 0 ? totalDuration / processingTime : 0
 
+            if jsonOutput {
+                // Output JSON format with sentence-level segments
+                if let snapshot = await tracker.metadataSnapshot(), !snapshot.timings.isEmpty {
+                    let wordTimings = WordTimingMerger.mergeTokensIntoWords(snapshot.timings)
+                    let segments = SentenceSegmenter.groupIntoSentences(wordTimings)
+                    let output = TranscriptionOutput(text: finalText, segments: segments)
+                    let encoder = JSONEncoder()
+                    encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+                    if let jsonData = try? encoder.encode(output),
+                       let jsonString = String(data: jsonData, encoding: .utf8) {
+                        print(jsonString)
+                    } else {
+                        logger.error("Failed to encode JSON output")
+                    }
+                } else {
+                    // No timings available, output simple JSON with empty segments
+                    let output = TranscriptionOutput(text: finalText, segments: [])
+                    let encoder = JSONEncoder()
+                    encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+                    if let jsonData = try? encoder.encode(output),
+                       let jsonString = String(data: jsonData, encoding: .utf8) {
+                        print(jsonString)
+                    }
+                }
+                return  // Skip the rest of the output
+            }
+
             logger.info("" + String(repeating: "=", count: 50))
             logger.info("STREAMING TRANSCRIPTION RESULTS")
             logger.info(String(repeating: "=", count: 50))
@@ -577,6 +707,7 @@ enum TranscribeCommand {
                 --streaming        Use streaming mode with chunk simulation
                 --metadata         Show confidence, start time, and end time in results
                 --word-timestamps  Show word-level timestamps for each word in the transcription
+                --json             Output results in JSON format with timestamped segments
                 --model-version <version>  ASR model version to use: v2 or v3 (default: v3)
 
             Examples:
@@ -584,6 +715,7 @@ enum TranscribeCommand {
                 fluidaudio transcribe audio.wav --streaming        # Streaming mode
                 fluidaudio transcribe audio.wav --metadata         # Batch mode with metadata
                 fluidaudio transcribe audio.wav --word-timestamps  # Batch mode with word timestamps
+                fluidaudio transcribe audio.wav --json             # Batch mode with JSON output
                 fluidaudio transcribe audio.wav --streaming --metadata # Streaming mode with metadata
 
             Batch mode (default):
