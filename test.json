@@ -1,0 +1,3800 @@
+{
+  "segments" : [
+    {
+      "end" : 4.24,
+      "start" : 1.12,
+      "text" : "Freakonomics Radio is sponsored by LinkedIn Ads."
+    },
+    {
+      "end" : 12.48,
+      "start" : 4.24,
+      "text" : "When you want to reach the right professionals, use LinkedIn Ads, the platform that has the highest B2B rows of all online ad networks."
+    },
+    {
+      "end" : 18.96,
+      "start" : 12.48,
+      "text" : "Spend $250 on your first campaign on LinkedIn ads and get a free $250 credit for the next one."
+    },
+    {
+      "end" : 22.56,
+      "start" : 18.96,
+      "text" : "Just go to LinkedIn.com slash freeconomics."
+    },
+    {
+      "end" : 28.96,
+      "start" : 22.56,
+      "text" : "Terms and Conditions apply."
+    },
+    {
+      "end" : 31.92,
+      "start" : 28.96,
+      "text" : "Free economics radio is sponsored by Amica Insurance."
+    },
+    {
+      "end" : 36.64,
+      "start" : 31.92,
+      "text" : "They say if you want to go fast, go alone, but if you want to go far, go together."
+    },
+    {
+      "end" : 45.12,
+      "start" : 36.64,
+      "text" : "When you go with Amika, you're getting coverage from a mutual insurer that's built for their customers so they'll help look after what's important to you together."
+    },
+    {
+      "end" : 48.480000000000004,
+      "start" : 45.12,
+      "text" : "Auto, home, life, and more, Amika has you covered."
+    },
+    {
+      "end" : 51.76,
+      "start" : 48.480000000000004,
+      "text" : "At Amika, they'll help protect what matters most to you."
+    },
+    {
+      "end" : 60.08,
+      "start" : 51.76,
+      "text" : "Visit Amika.com and get a quote today."
+    },
+    {
+      "end" : 61.84,
+      "start" : 60.08,
+      "text" : "Hey there, Steven Dubner."
+    },
+    {
+      "end" : 70.16,
+      "start" : 61.84,
+      "text" : "Today we are playing the second and final part of our series on the economics of the Macy's Thanksgiving Parade, which we first published in 2024."
+    },
+    {
+      "end" : 73.2,
+      "start" : 70.16,
+      "text" : "We have updated facts and figures where needed."
+    },
+    {
+      "end" : 79.60000000000001,
+      "start" : 73.2,
+      "text" : "As always, thanks for listening."
+    },
+    {
+      "end" : 86.96000000000001,
+      "start" : 79.60000000000001,
+      "text" : "On Thanksgiving morning, roughly 30 million people watch at least some of the Macy's Thanksgiving Day parade on TV."
+    },
+    {
+      "end" : 90.8,
+      "start" : 86.96000000000001,
+      "text" : "For a lot of them, it wouldn't feel like Thanksgiving without the parade."
+    },
+    {
+      "end" : 95.92,
+      "start" : 90.8,
+      "text" : "In the first episode of the series, we spoke with the parade's executive producer, Will Coss."
+    },
+    {
+      "end" : 98.96000000000001,
+      "start" : 95.92,
+      "text" : "I asked him why it is so popular."
+    },
+    {
+      "end" : 102.16,
+      "start" : 98.96000000000001,
+      "text" : "His answer was pure tevia."
+    },
+    {
+      "end" : 104.48,
+      "start" : 102.16,
+      "text" : "I'd say tradition."
+    },
+    {
+      "end" : 108.88,
+      "start" : 104.48,
+      "text" : "Tradition, tradition, tradition is at the core."
+    },
+    {
+      "end" : 120.08,
+      "start" : 108.88,
+      "text" : "It's really about having this thing, this giant thing that shows up for you every Thanksgiving morning, and it's gonna be a little bit of spectacle, a little bit of kitsch, a little bit of art."
+    },
+    {
+      "end" : 124.88000000000001,
+      "start" : 120.08,
+      "text" : "It's become a moment in time for all of us to drive back to."
+    },
+    {
+      "end" : 129.6,
+      "start" : 124.88000000000001,
+      "text" : "But even our favorite traditions are not guaranteed their place in the future."
+    },
+    {
+      "end" : 136.48,
+      "start" : 129.6,
+      "text" : "The Macy's Department Store has been around for 167 years, and they've put on a parade for the past 101."
+    },
+    {
+      "end" : 146.16,
+      "start" : 136.48,
+      "text" : "In our previous episode, we tried to figure out how much money Macy spends to make the parade and how much they earn from sponsorships and TV ad sales."
+    },
+    {
+      "end" : 148.88,
+      "start" : 146.16,
+      "text" : "That was one part of this story that interested us."
+    },
+    {
+      "end" : 155.84,
+      "start" : 148.88,
+      "text" : "The other part is the future of retail itself, or at least the kind of retailing represented by Macy's."
+    },
+    {
+      "end" : 161.68,
+      "start" : 155.84,
+      "text" : "They like to call the parade their annual gift to the nation, which is a nice sentiment."
+    },
+    {
+      "end" : 164.48,
+      "start" : 161.68,
+      "text" : "But there are two things you should know about that."
+    },
+    {
+      "end" : 170.56,
+      "start" : 164.48,
+      "text" : "This gift is likely quite profitable for the giver, which is unusual."
+    },
+    {
+      "end" : 177.36,
+      "start" : 170.56,
+      "text" : "Also, the Macy's Parade may be one of the most valuable assets that Macy's still has."
+    },
+    {
+      "end" : 196.32,
+      "start" : 177.36,
+      "text" : "For most of the 20th century, Macy's was a retailing giant, but it's been in trouble for years, and if it were to disappear, the way that Sears and Montgomery Ward and Lord and Taylor and many other department stores have disappeared, the parade would likely disappear as well."
+    },
+    {
+      "end" : 200.32,
+      "start" : 196.32,
+      "text" : "How likely is it that Macy's disappears?"
+    },
+    {
+      "end" : 203.6,
+      "start" : 200.32,
+      "text" : "That's one of the questions we're asking in this episode."
+    },
+    {
+      "end" : 210.48000000000002,
+      "start" : 203.6,
+      "text" : "As of this recording, Macy's is a publicly traded company with a market capitalization of around $6 billion."
+    },
+    {
+      "end" : 214.56,
+      "start" : 210.48000000000002,
+      "text" : "That's up from around $4 billion when we first published this series."
+    },
+    {
+      "end" : 218.32,
+      "start" : 214.56,
+      "text" : "But even $6 billion is still not very much."
+    },
+    {
+      "end" : 225.92000000000002,
+      "start" : 218.32,
+      "text" : "The target chain has a market cap of around $40 billion, Walmart $850 billion."
+    },
+    {
+      "end" : 231.52,
+      "start" : 225.92000000000002,
+      "text" : "Macy's real estate alone is thought to be worth more than its $6 billion market cap."
+    },
+    {
+      "end" : 240.48000000000002,
+      "start" : 231.52,
+      "text" : "You could take that to mean that Macy's simply is no longer very good at being a department store, or that department stores in general are doomed."
+    },
+    {
+      "end" : 251.6,
+      "start" : 240.48000000000002,
+      "text" : "Over the years on this show, we've interviewed quite a few CEOs and most of them were in thriving industries, biotech and software, energy and entertainment."
+    },
+    {
+      "end" : 259.76,
+      "start" : 251.6,
+      "text" : "We haven't talked much about the retail industry, but the fact is that a huge share of the global economy is a retail economy."
+    },
+    {
+      "end" : 263.84000000000003,
+      "start" : 259.76,
+      "text" : "So we thought this was a conversation worth having."
+    },
+    {
+      "end" : 272.96,
+      "start" : 263.84000000000003,
+      "text" : "Today on Freeconomics Radio, Macy's CEO Tony Spring makes his case."
+    },
+    {
+      "end" : 274.40000000000003,
+      "start" : 272.96,
+      "text" : "Just a physical store."
+    },
+    {
+      "end" : 277.52,
+      "start" : 274.40000000000003,
+      "text" : "We are a celebrator of life's moments."
+    },
+    {
+      "end" : 280.32,
+      "start" : 277.52,
+      "text" : "We also hear a dissenting voice."
+    },
+    {
+      "end" : 286.24,
+      "start" : 280.32,
+      "text" : "Until it's successful, keep your mouth shut, because you create expectations that may not be realistic."
+    },
+    {
+      "end" : 290.32,
+      "start" : 286.24,
+      "text" : "And we look at another retailer who is swimming against the tide."
+    },
+    {
+      "end" : 295.44,
+      "start" : 290.32,
+      "text" : "I drove by the bookstore and I could see in the window that people were really enjoying themselves."
+    },
+    {
+      "end" : 297.6,
+      "start" : 295.44,
+      "text" : "And I thought that's what I want."
+    },
+    {
+      "end" : 312.16,
+      "start" : 297.6,
+      "text" : "But is wanting something enough to make it happen."
+    },
+    {
+      "end" : 328.40000000000003,
+      "start" : 312.16,
+      "text" : "This is Freeconomics Radio, the podcast that explores the hidden side of everything with your host, Stephen Dubner."
+    },
+    {
+      "end" : 335.76,
+      "start" : 328.40000000000003,
+      "text" : "Tony Spring became CEO of Macy's in February of 2024, and he was appointed chairman of the board a couple months later."
+    },
+    {
+      "end" : 341.28000000000003,
+      "start" : 335.76,
+      "text" : "He is proud of his parade, but he recognizes that a parade."
+    },
+    {
+      "end" : 344.88,
+      "start" : 341.28000000000003,
+      "text" : "I want to be perceived as giving this gift to the city and to the nation."
+    },
+    {
+      "end" : 346.48,
+      "start" : 344.88,
+      "text" : "I also want to do a lot of business."
+    },
+    {
+      "end" : 350.24,
+      "start" : 346.48,
+      "text" : "I'll give you an adage that one of my former colleagues at Bloomingdale said to me."
+    },
+    {
+      "end" : 353.6,
+      "start" : 350.24,
+      "text" : "We want to win an Oscar, but also we want to win at the box office."
+    },
+    {
+      "end" : 357.12,
+      "start" : 353.6,
+      "text" : "So you grew up just north of New York City in Westchester County."
+    },
+    {
+      "end" : 357.68,
+      "start" : 357.12,
+      "text" : "I did."
+    },
+    {
+      "end" : 362.40000000000003,
+      "start" : 357.68,
+      "text" : "How much did you know about or go to Macy's as a kid?"
+    },
+    {
+      "end" : 367.28000000000003,
+      "start" : 362.40000000000003,
+      "text" : "I certainly went to Macy's Herald Square and it felt like an adventure."
+    },
+    {
+      "end" : 372.96,
+      "start" : 367.28000000000003,
+      "text" : "Everything was overwhelming, the oversized ceilings, the uh environments, the storytelling."
+    },
+    {
+      "end" : 375.6,
+      "start" : 372.96,
+      "text" : "I love the those old wooden escalators."
+    },
+    {
+      "end" : 378.8,
+      "start" : 375.6,
+      "text" : "And they are still there, functioning to this day."
+    },
+    {
+      "end" : 382.96000000000004,
+      "start" : 378.8,
+      "text" : "But I actually fell in love with retail working in hospitality."
+    },
+    {
+      "end" : 387.04,
+      "start" : 382.96000000000004,
+      "text" : "I worked in a Burger King restaurant when I was in high school."
+    },
+    {
+      "end" : 395.92,
+      "start" : 387.04,
+      "text" : "I remember starting that job and feeling like working with the customer was the most exciting thing, hearing the cash register ring, being able to serve consumers."
+    },
+    {
+      "end" : 399.76,
+      "start" : 395.92,
+      "text" : "But that first week on the job, all I was doing was cleaning the parking lot."
+    },
+    {
+      "end" : 404.72,
+      "start" : 399.76,
+      "text" : "After about a week, the manager pulled me aside, he said, Do you know why you were working in the parking lot for a week?"
+    },
+    {
+      "end" : 406.16,
+      "start" : 404.72,
+      "text" : "I said, I have no idea."
+    },
+    {
+      "end" : 409.52,
+      "start" : 406.16,
+      "text" : "He said, because that's the first impression that people have."
+    },
+    {
+      "end" : 413.92,
+      "start" : 409.52,
+      "text" : "And if the parking lot is dirty, they think the restaurant is dirty, they don't think the food is fresh."
+    },
+    {
+      "end" : 419.76,
+      "start" : 413.92,
+      "text" : "And that first impression mentality stuck with me all throughout my retail career."
+    },
+    {
+      "end" : 425.28000000000003,
+      "start" : 419.76,
+      "text" : "Spring went to Cornell University and studied in its world-famous hospitality school."
+    },
+    {
+      "end" : 430.96000000000004,
+      "start" : 425.28000000000003,
+      "text" : "There he met a recruiter from Bloomingdales, a beloved old luxury retailer in New York."
+    },
+    {
+      "end" : 436.08,
+      "start" : 430.96000000000004,
+      "text" : "City They were looking to place Cornell graduates in their executive training program."
+    },
+    {
+      "end" : 445.12,
+      "start" : 436.08,
+      "text" : "Maybe you remember the Seinfeld episode where Jerry's parents want him to quit comedy and join the Bloomingdales executive training program."
+    },
+    {
+      "end" : 450,
+      "start" : 445.12,
+      "text" : "Jerry wasn't interested, but Tony Spring was, and he loved it."
+    },
+    {
+      "end" : 452.08,
+      "start" : 450,
+      "text" : "This was in 1987."
+    },
+    {
+      "end" : 456.16,
+      "start" : 452.08,
+      "text" : "The company was well known for of the moment ideas."
+    },
+    {
+      "end" : 463.52,
+      "start" : 456.16,
+      "text" : "If you remember back in the uh late eighties there were these uh rocking flowers that came out of Asia that moved to music."
+    },
+    {
+      "end" : 466.72,
+      "start" : 463.52,
+      "text" : "Bloomingdales, they were the ones who sold the mood rings."
+    },
+    {
+      "end" : 473.68,
+      "start" : 466.72,
+      "text" : "They sold a piece of the Berlin Wall when it came down."
+    },
+    {
+      "end" : 478.40000000000003,
+      "start" : 473.68,
+      "text" : "Bloomingdales had by then long been part of a retail conglomerate called Federated."
+    },
+    {
+      "end" : 481.92,
+      "start" : 478.40000000000003,
+      "text" : "Macy's tried to acquire Federated, but failed."
+    },
+    {
+      "end" : 485.6,
+      "start" : 481.92,
+      "text" : "Soon after the Federal Federal Federated entered bankruptcy."
+    },
+    {
+      "end" : 493.68,
+      "start" : 485.6,
+      "text" : "A couple years later, Macy's entered bankruptcy, at which point Federated came out of bankruptcy and acquired Macy's."
+    },
+    {
+      "end" : 494.72,
+      "start" : 493.68,
+      "text" : "Got that?"
+    },
+    {
+      "end" : 499.2,
+      "start" : 494.72,
+      "text" : "Federated became the biggest department store company in the US."
+    },
+    {
+      "end" : 505.92,
+      "start" : 499.2,
+      "text" : "But they also knew the power of the Macy's brand, so they changed the company name to Macy's Inc."
+    },
+    {
+      "end" : 509.44,
+      "start" : 505.92,
+      "text" : "and rebranded many of their other stores as Macy's."
+    },
+    {
+      "end" : 514.24,
+      "start" : 509.44,
+      "text" : "Although not Bloomingdale's, that brand was strong enough to stand on its own."
+    },
+    {
+      "end" : 516.8,
+      "start" : 514.24,
+      "text" : "In 2015, Macy's Inc."
+    },
+    {
+      "end" : 519.84,
+      "start" : 516.8,
+      "text" : "acquired the high-end beauty retailer Blue Mercury."
+    },
+    {
+      "end" : 524.4,
+      "start" : 519.84,
+      "text" : "So those are the three main brands that today make up Macy's Inc."
+    },
+    {
+      "end" : 527.36,
+      "start" : 524.4,
+      "text" : "Blue Mercury, Bloomingdale's, and Macy's."
+    },
+    {
+      "end" : 535.6,
+      "start" : 527.36,
+      "text" : "For now, Tony Springs says they will remain separate, but the mix will change as Macy's itself continues to shrink."
+    },
+    {
+      "end" : 539.5200000000001,
+      "start" : 535.6,
+      "text" : "Back in 2007, there were more than 800 Macy's stores."
+    },
+    {
+      "end" : 544.96,
+      "start" : 539.52,
+      "text" : "Now there are fewer than 500, and that number is due to fall again soon by quite a lot."
+    },
+    {
+      "end" : 549.12,
+      "start" : 544.96,
+      "text" : "So Tony Springs's job is to at least start with the state of the bleeding."
+    },
+    {
+      "end" : 551.76,
+      "start" : 549.12,
+      "text" : "He does have a positive attitude."
+    },
+    {
+      "end" : 558.72,
+      "start" : 551.76,
+      "text" : "Even though a lot of America needs to re-embrace Macy's, there's still plenty of people who are shopping at Macy's."
+    },
+    {
+      "end" : 564.5600000000001,
+      "start" : 558.72,
+      "text" : "41 million active consumers, five different generations shopping at Macy's."
+    },
+    {
+      "end" : 571.76,
+      "start" : 564.5600000000001,
+      "text" : "Earlier this year, Tony, you faced a takeover challenge from the investment firm Arkhouse and the Asset Manager Brigade."
+    },
+    {
+      "end" : 575.84,
+      "start" : 571.76,
+      "text" : "And this was not the first time that activist investors have come after Macy's."
+    },
+    {
+      "end" : 584.64,
+      "start" : 575.84,
+      "text" : "The current market capitalization of your firm is only around 4.2 billion as we speak, and Ark House offered 6 billion, I believe."
+    },
+    {
+      "end" : 591.28,
+      "start" : 584.64,
+      "text" : "I've read that your real estate portfolio is worth between seven and eleven billion dollars."
+    },
+    {
+      "end" : 594.72,
+      "start" : 591.28,
+      "text" : "First of all, does that estimate seem about right to you or no?"
+    },
+    {
+      "end" : 597.6800000000001,
+      "start" : 594.72,
+      "text" : "Uh I'll leave that to the real estate experts."
+    },
+    {
+      "end" : 598.24,
+      "start" : 597.6800000000001,
+      "text" : "All right."
+    },
+    {
+      "end" : 605.76,
+      "start" : 598.24,
+      "text" : "So what's your best case to shareholders for why they should be happy that you turned down that offer?"
+    },
+    {
+      "end" : 607.04,
+      "start" : 605.76,
+      "text" : "Let's put it in context."
+    },
+    {
+      "end" : 609.52,
+      "start" : 607.04,
+      "text" : "It was a proposal, not an offer."
+    },
+    {
+      "end" : 611.28,
+      "start" : 609.52,
+      "text" : "It wasn't fully financed."
+    },
+    {
+      "end" : 619.44,
+      "start" : 611.28,
+      "text" : "After seven months of due diligence, the board unanimously voted to move on and focus on creating value for our shareholders."
+    },
+    {
+      "end" : 630.72,
+      "start" : 619.44,
+      "text" : "We remain open to a valuation that is higher than we are today, but the most important thing we can do as a leadership team is get to work on delivering a better experience for the consumer."
+    },
+    {
+      "end" : 631.28,
+      "start" : 630.72,
+      "text" : "Okay."
+    },
+    {
+      "end" : 633.04,
+      "start" : 631.28,
+      "text" : "So the market cap is real."
+    },
+    {
+      "end" : 634.24,
+      "start" : 633.04,
+      "text" : "That's you know verifiable."
+    },
+    {
+      "end" : 635.9200000000001,
+      "start" : 634.24,
+      "text" : "Let's call it $4.2 billion."
+    },
+    {
+      "end" : 640.08,
+      "start" : 635.92,
+      "text" : "Let's say that that real estate estimate between seven and eleven billion."
+    },
+    {
+      "end" : 642.64,
+      "start" : 640.08,
+      "text" : "Let's assume that that's accurate ish."
+    },
+    {
+      "end" : 648.64,
+      "start" : 642.64,
+      "text" : "What does it say that your market cap is roughly half of the real estate value?"
+    },
+    {
+      "end" : 652.4,
+      "start" : 648.64,
+      "text" : "Now is the time to buy Macy's."
+    },
+    {
+      "end" : 652.96,
+      "start" : 652.4,
+      "text" : "Okay."
+    },
+    {
+      "end" : 654.24,
+      "start" : 652.96,
+      "text" : "Anything more on that though?"
+    },
+    {
+      "end" : 659.92,
+      "start" : 654.24,
+      "text" : "Because you know, if I'm anyway, absolutely attractive stock to buy."
+    },
+    {
+      "end" : 661.84,
+      "start" : 659.92,
+      "text" : "The multiple is low."
+    },
+    {
+      "end" : 668.4,
+      "start" : 661.84,
+      "text" : "The company has made a commitment to turn itself around and deliver a better experience for the customer."
+    },
+    {
+      "end" : 671.2,
+      "start" : 668.4,
+      "text" : "It's a portfolio company, so it's not just Macy's."
+    },
+    {
+      "end" : 673.52,
+      "start" : 671.2,
+      "text" : "You get Bloomingdales and Blue Mercury."
+    },
+    {
+      "end" : 684.96,
+      "start" : 673.52,
+      "text" : "And you're at a moment in time where there's been so much disruption and retail, if I could get in at an inexpensive price, why wouldn't I wanna capitalize on the future of what this company is?"
+    },
+    {
+      "end" : 687.52,
+      "start" : 684.96,
+      "text" : "And then by the way, the real estate has value."
+    },
+    {
+      "end" : 693.2,
+      "start" : 687.52,
+      "text" : "The company's also proven over the last seven years we've monetized over two and a half billion dollars worth of real estate."
+    },
+    {
+      "end" : 694.8000000000001,
+      "start" : 693.2,
+      "text" : "Monetized meaning sold?"
+    },
+    {
+      "end" : 695.44,
+      "start" : 694.8000000000001,
+      "text" : "Sold."
+    },
+    {
+      "end" : 699.6800000000001,
+      "start" : 695.44,
+      "text" : "So to your point, how can the sum of the parts not be worth more?"
+    },
+    {
+      "end" : 701.6800000000001,
+      "start" : 699.6800000000001,
+      "text" : "Look, I don't get to value the company."
+    },
+    {
+      "end" : 704.48,
+      "start" : 701.6800000000001,
+      "text" : "I can only comment on how the company's been valued."
+    },
+    {
+      "end" : 706.5600000000001,
+      "start" : 704.48,
+      "text" : "We are a retail company first."
+    },
+    {
+      "end" : 711.2,
+      "start" : 706.5600000000001,
+      "text" : "We enjoy and benefit from a great portfolio of real estate."
+    },
+    {
+      "end" : 719.6,
+      "start" : 711.2,
+      "text" : "And we'll continue to look at opportunities to both acquire assets as well as divest of assets."
+    },
+    {
+      "end" : 722.24,
+      "start" : 719.6,
+      "text" : "When we're talking about the value of Macy's Inc."
+    },
+    {
+      "end" : 728.72,
+      "start" : 722.24,
+      "text" : "real estate, we're really talking about the bigger Macy's and Bloomingdale's locations where the company owns the building."
+    },
+    {
+      "end" : 733.52,
+      "start" : 728.72,
+      "text" : "They rent most of their smaller stores as well as their Blue Mercury locations."
+    },
+    {
+      "end" : 739.6,
+      "start" : 733.52,
+      "text" : "Tony Spring is planning to close and sell around 150 of the bigger Macy stores."
+    },
+    {
+      "end" : 742.32,
+      "start" : 739.6,
+      "text" : "This should raise roughly half a billion dollars."
+    },
+    {
+      "end" : 753.52,
+      "start" : 742.32,
+      "text" : "At the same time, he plans to open some smaller Macy stores and to expand Bloomingdale's and Blue Mercury."
+    },
+    {
+      "end" : 767.04,
+      "start" : 753.52,
+      "text" : "Better in the future, you essentially have a healthy company that has you throw in the parade, the fireworks, the flower show, a relevancy gap that will be addressed by this leadership team."
+    },
+    {
+      "end" : 769.2,
+      "start" : 767.04,
+      "text" : "I'm glad you brought up the parade, Tony."
+    },
+    {
+      "end" : 774.5600000000001,
+      "start" : 769.2,
+      "text" : "No one we've spoken with at Macy's wants to talk about the economics of the parade."
+    },
+    {
+      "end" : 785.9200000000001,
+      "start" : 774.5600000000001,
+      "text" : "It's plainly expensive to produce, but based on a rough calculation of sponsorship dollars and TV ad sales, it's obviously quite valuable to you as well."
+    },
+    {
+      "end" : 792.48,
+      "start" : 785.9200000000001,
+      "text" : "Is it possible that the parade is the most valuable asset in the Macy's portfolio?"
+    },
+    {
+      "end" : 798.64,
+      "start" : 792.48,
+      "text" : "I wouldn't say the most valuable, but I would say it's a valuable asset in the Macy's portfolio."
+    },
+    {
+      "end" : 803.12,
+      "start" : 798.64,
+      "text" : "The same way I would say Herald Square is a valuable asset in our portfolio."
+    },
+    {
+      "end" : 805.36,
+      "start" : 803.12,
+      "text" : "This is the advantage I think we have."
+    },
+    {
+      "end" : 807.36,
+      "start" : 805.36,
+      "text" : "We are not just a retailer."
+    },
+    {
+      "end" : 809.6800000000001,
+      "start" : 807.36,
+      "text" : "We are not just a physical store."
+    },
+    {
+      "end" : 812.8000000000001,
+      "start" : 809.6800000000001,
+      "text" : "We are a celebrator of life's moments."
+    },
+    {
+      "end" : 815.12,
+      "start" : 812.8000000000001,
+      "text" : "I use the ordinary to the extraordinary."
+    },
+    {
+      "end" : 818.32,
+      "start" : 815.12,
+      "text" : "The ordinary of I just need to run in and get a pair of socks."
+    },
+    {
+      "end" : 820.48,
+      "start" : 818.32,
+      "text" : "I just need to get a new pair of jeans."
+    },
+    {
+      "end" : 824.96,
+      "start" : 820.48,
+      "text" : "To the extraordinary, the parade, the fireworks, and how about your fiftieth birthday party?"
+    },
+    {
+      "end" : 828.5600000000001,
+      "start" : 824.96,
+      "text" : "How about your hopefully your one marriage to the person you love?"
+    },
+    {
+      "end" : 830.24,
+      "start" : 828.5600000000001,
+      "text" : "How about the birth of your son?"
+    },
+    {
+      "end" : 848.4,
+      "start" : 830.24,
+      "text" : "I mean, these are the moments that I think Macy's can be and should be and is known for And here's someone who' nots quite as confident about the future of Macy's."
+    },
+    {
+      "end" : 855.76,
+      "start" : 848.4,
+      "text" : "Macy's has a hell of a challenge over the next few years to remain upright, let alone become successful as they once were."
+    },
+    {
+      "end" : 857.44,
+      "start" : 855.76,
+      "text" : "That is Mark Cohen."
+    },
+    {
+      "end" : 866,
+      "start" : 857.44,
+      "text" : "M A R K C O H E N Cohen recently retired as a professor and director of retail studies at Columbia Business School."
+    },
+    {
+      "end" : 869.28,
+      "start" : 866,
+      "text" : "Before that, he worked for thirty years in the retail business."
+    },
+    {
+      "end" : 873.9200000000001,
+      "start" : 869.28,
+      "text" : "His first job was at Abraham and Strauss, which no longer exists."
+    },
+    {
+      "end" : 880.16,
+      "start" : 873.9200000000001,
+      "text" : "His final job was as CEO of Sears Canada, which also no longer exists."
+    },
+    {
+      "end" : 885.28,
+      "start" : 880.16,
+      "text" : "I asked Cohen why the Columbia Business School even teaches retail studies."
+    },
+    {
+      "end" : 887.9200000000001,
+      "start" : 885.28,
+      "text" : "It's not the sexiest industry."
+    },
+    {
+      "end" : 890.5600000000001,
+      "start" : 887.9200000000001,
+      "text" : "It is arguably the largest."
+    },
+    {
+      "end" : 894.64,
+      "start" : 890.5600000000001,
+      "text" : "Retailing is 70 to 80 percent of the world's economy."
+    },
+    {
+      "end" : 902,
+      "start" : 894.64,
+      "text" : "There's been an enormous resurgence in interest in retailing, largely on the side of entrepreneurship."
+    },
+    {
+      "end" : 912.08,
+      "start" : 902,
+      "text" : "I would also point out that some of the world's largest individual fortunes have been made coming out of retail, obviously the Walton family."
+    },
+    {
+      "end" : 916.08,
+      "start" : 912.08,
+      "text" : "Then there's the ubiquitous Jeff Bezos experience at Amazon."
+    },
+    {
+      "end" : 918.48,
+      "start" : 916.08,
+      "text" : "Zara is a big one, Inditex, right?"
+    },
+    {
+      "end" : 919.2,
+      "start" : 918.48,
+      "text" : "You bet."
+    },
+    {
+      "end" : 922.88,
+      "start" : 919.2,
+      "text" : "LVMH, a different kind of retail, I guess, but still retail."
+    },
+    {
+      "end" : 923.44,
+      "start" : 922.88,
+      "text" : "That's right."
+    },
+    {
+      "end" : 933.52,
+      "start" : 923.44,
+      "text" : "So some retailers are obviously thriving, and I've seen data suggesting that the e-commerce apocalypse just hasn't happened, that good brick and mortar has a future."
+    },
+    {
+      "end" : 936,
+      "start" : 933.52,
+      "text" : "But let's take a case study of failure."
+    },
+    {
+      "end" : 937.9200000000001,
+      "start" : 936,
+      "text" : "Let's talk about Sears."
+    },
+    {
+      "end" : 941.36,
+      "start" : 937.9200000000001,
+      "text" : "They were massive and now they're pretty much dead."
+    },
+    {
+      "end" : 945.28,
+      "start" : 941.36,
+      "text" : "You were a senior executive at Sears before its demise."
+    },
+    {
+      "end" : 950.32,
+      "start" : 945.28,
+      "text" : "I assume it wasn't your fault, but uh No, it wasn't my fault."
+    },
+    {
+      "end" : 954.72,
+      "start" : 950.32,
+      "text" : "The underlying issue in retailing is the customer has never disappeared."
+    },
+    {
+      "end" : 956.64,
+      "start" : 954.72,
+      "text" : "The customer has never gone away."
+    },
+    {
+      "end" : 968.72,
+      "start" : 956.64,
+      "text" : "The customer worldwide is hard-coated to want to shop for things, the only self-limiting issues being their economic capability and their proximity to a marketplace."
+    },
+    {
+      "end" : 980.72,
+      "start" : 968.72,
+      "text" : "At the turn of the twentieth century, customers in the United States were able to shop by coming downtown to shop in an emerging department store emporium."
+    },
+    {
+      "end" : 987.84,
+      "start" : 980.72,
+      "text" : "They also began to be able to shop in the early 20th century through catalogs like Sears Robux."
+    },
+    {
+      "end" : 992,
+      "start" : 987.84,
+      "text" : "If you couldn't find it in a Sears catalog, you didn't need it."
+    },
+    {
+      "end" : 996.88,
+      "start" : 992,
+      "text" : "You could buy everything from apparel to a you build it house."
+    },
+    {
+      "end" : 1004.16,
+      "start" : 996.88,
+      "text" : "And they built out the facility with which to fulfill customer demand, literally throughout the United States."
+    },
+    {
+      "end" : 1016.5600000000001,
+      "start" : 1004.16,
+      "text" : "In the aftermath of World War II, millions of servicemen began to return from overseas and were eager on catching up on their lives and forming households."
+    },
+    {
+      "end" : 1024.32,
+      "start" : 1016.5600000000001,
+      "text" : "They began to migrate from urban centers and rural communities into newly formed suburbs."
+    },
+    {
+      "end" : 1026.8,
+      "start" : 1024.32,
+      "text" : "Dwight Eisenhower, the U.S."
+    },
+    {
+      "end" : 1043.52,
+      "start" : 1026.8,
+      "text" : "President in the 50s has a lot to do with the emergence of mid-20th century retail when he caused the interstate highway system to be built, having come out of World War II and witnessing the efficacy of the German Autobahn."
+    },
+    {
+      "end" : 1056.48,
+      "start" : 1043.52,
+      "text" : "His rationale was we have to have a way to move men and material north-south, east and west efficiently as opposed to across two-lane blacktop, which is what connected the United States at that time."
+    },
+    {
+      "end" : 1058.4,
+      "start" : 1056.48,
+      "text" : "Of course, we were never invaded."
+    },
+    {
+      "end" : 1064.08,
+      "start" : 1058.4,
+      "text" : "There was no reason for the Interstate Highway System to be an adjunct of the Defense Department."
+    },
+    {
+      "end" : 1075.68,
+      "start" : 1064.08,
+      "text" : "What it did was it spawned an enormous amount of migration into newly formed suburbs which were being built in close proximity to these interstate highways."
+    },
+    {
+      "end" : 1086,
+      "start" : 1075.68,
+      "text" : "So there was this emergence of suburban-based mall retailing, which hollowed out traditional downtown-based retailing in hundreds of U.S."
+    },
+    {
+      "end" : 1086.88,
+      "start" : 1086,
+      "text" : "cities."
+    },
+    {
+      "end" : 1091.76,
+      "start" : 1086.88,
+      "text" : "Sears was one of those department stores that migrated to the suburban malls."
+    },
+    {
+      "end" : 1098.08,
+      "start" : 1091.76,
+      "text" : "And they became the largest retailer in the world through the nineteen sixties."
+    },
+    {
+      "end" : 1100.24,
+      "start" : 1098.08,
+      "text" : "So what happened to Sears?"
+    },
+    {
+      "end" : 1106.4,
+      "start" : 1100.24,
+      "text" : "Success in many cases brings complacency, hubris."
+    },
+    {
+      "end" : 1116.16,
+      "start" : 1106.4,
+      "text" : "Success seeds failure in many enterprises as they become larger and larger and become convinced that they are the last word."
+    },
+    {
+      "end" : 1119.1200000000001,
+      "start" : 1116.16,
+      "text" : "It was a very insular, inwardly."
+    },
+    {
+      "end" : 1140.4,
+      "start" : 1119.1200000000001,
+      "text" : "facing business In fact, when the two founders of Home Depot came to visit Sears Roebuck some years ago looking to get some financial support to launch their business, they basically got laughed out of the meeting by senior executives at Sears who looked at them as upstarts who had nothing to offer."
+    },
+    {
+      "end" : 1140.8,
+      "start" : 1140.4,
+      "text" : "Okay."
+    },
+    {
+      "end" : 1144,
+      "start" : 1140.8,
+      "text" : "That's Mark Cohen on the rise and fall of Sears."
+    },
+    {
+      "end" : 1146.64,
+      "start" : 1144,
+      "text" : "How about Macy's at its peak?"
+    },
+    {
+      "end" : 1158.4,
+      "start" : 1146.64,
+      "text" : "Macy's was a brilliantly constructed general merchandise emporium servicing customers from low-middle income all the way up into near luxury."
+    },
+    {
+      "end" : 1168.8,
+      "start" : 1158.4,
+      "text" : "They were very good looking stores that were very powerfully merchandised, topical and current, and they did it very consistently."
+    },
+    {
+      "end" : 1171.44,
+      "start" : 1168.8,
+      "text" : "When you say it was powerfully merchandised."
+    },
+    {
+      "end" : 1175.2,
+      "start" : 1171.44,
+      "text" : "I've read you write before about what makes a good store good and a bad store bad."
+    },
+    {
+      "end" : 1178.08,
+      "start" : 1175.2,
+      "text" : "What are some things that Macy's did when they were very good?"
+    },
+    {
+      "end" : 1193.04,
+      "start" : 1178.08,
+      "text" : "One of the most important things they did was they created a over large business consisting of housewares products by creating on the lower level of their Herald Square store something they called the seller."
+    },
+    {
+      "end" : 1195.1200000000001,
+      "start" : 1193.04,
+      "text" : "Good use of underground real estate too."
+    },
+    {
+      "end" : 1195.3600000000001,
+      "start" : 1195.1200000000001,
+      "text" : "Yes."
+    },
+    {
+      "end" : 1202.88,
+      "start" : 1195.3600000000001,
+      "text" : "So they took a whole variety of categories that were not, up until that point, viewed as particularly sexy or fashionable."
+    },
+    {
+      "end" : 1219.92,
+      "start" : 1202.88,
+      "text" : "They gave them a home, amped up their presentation, and built a business that customers would previously have seen as a place to buy utility products, you know, we need another frying pan to a place to buy an entire suite of cookware."
+    },
+    {
+      "end" : 1221.52,
+      "start" : 1219.92,
+      "text" : "And they did it brilliantly."
+    },
+    {
+      "end" : 1225.92,
+      "start" : 1221.52,
+      "text" : "It was putting the puzzle pieces together in a way that hadn't been done before."
+    },
+    {
+      "end" : 1229.3600000000001,
+      "start" : 1225.92,
+      "text" : "Which decades were the strongest decades for Macy's?"
+    },
+    {
+      "end" : 1232.56,
+      "start" : 1229.3600000000001,
+      "text" : "Probably the 60s and 70s."
+    },
+    {
+      "end" : 1235.1200000000001,
+      "start" : 1232.56,
+      "text" : "How profitable was Macy's in its heyday?"
+    },
+    {
+      "end" : 1236.4,
+      "start" : 1235.1200000000001,
+      "text" : "It was very profitable."
+    },
+    {
+      "end" : 1241.2,
+      "start" : 1236.4,
+      "text" : "I don't have a specific number to say, but they were viewed as as good as it gets."
+    },
+    {
+      "end" : 1244.72,
+      "start" : 1241.2,
+      "text" : "How fashionable were the clothes at Macy's during its heyday?"
+    },
+    {
+      "end" : 1245.68,
+      "start" : 1244.72,
+      "text" : "Very fashionable."
+    },
+    {
+      "end" : 1250.08,
+      "start" : 1245.68,
+      "text" : "They were purveyors of the best brands of the day."
+    },
+    {
+      "end" : 1258.64,
+      "start" : 1250.08,
+      "text" : "And Macy's also invested in a whole portfolio of private label brands in both apparel and accessories and in home."
+    },
+    {
+      "end" : 1264.64,
+      "start" : 1258.64,
+      "text" : "So you're telling us all these things that Macy's did bas,ically what Macy's stood for for these several decades."
+    },
+    {
+      "end" : 1268.96,
+      "start" : 1264.64,
+      "text" : "When you look at Macy's today, what does it stand for?"
+    },
+    {
+      "end" : 1272.88,
+      "start" : 1268.96,
+      "text" : "Well unfortunately, and in my view, Macy's doesn't stand for anything today."
+    },
+    {
+      "end" : 1279.6000000000001,
+      "start" : 1272.88,
+      "text" : "A consumer-facing enterprise, a brand, a store, a website, has to stand for something."
+    },
+    {
+      "end" : 1293.68,
+      "start" : 1279.6000000000001,
+      "text" : "It has to have a point of view that not only is recognized by customers as something they want to associate with, but differentiates itself from competition and is able to defend itself from competition."
+    },
+    {
+      "end" : 1297.04,
+      "start" : 1293.68,
+      "text" : "Aaron Powell So what'd they do wrong in these last several decades?"
+    },
+    {
+      "end" : 1306.4,
+      "start" : 1297.04,
+      "text" : "Well Macy's began to prop up their lagging productivity and they began to play the last man standing game."
+    },
+    {
+      "end" : 1313.68,
+      "start" : 1306.4,
+      "text" : "You know, buy your competition and decide that's the secret to life, because now you don't have to compete with someone head to head."
+    },
+    {
+      "end" : 1320.16,
+      "start" : 1313.68,
+      "text" : "They also consolidated all of their regional banners under the heading Macy's."
+    },
+    {
+      "end" : 1337.04,
+      "start" : 1320.16,
+      "text" : "They did this in an attempt to retain their relevance, which was under tremendous pressure because of all of these specialty store chains, and then the big box off-mall retailers started to do an enormous amount of volume."
+    },
+    {
+      "end" : 1340.08,
+      "start" : 1337.04,
+      "text" : "And then of course there's Jeff Bezos Amazon."
+    },
+    {
+      "end" : 1351.04,
+      "start" : 1340.08,
+      "text" : "Aaron Powell I'm curious as Macy's business and reputation foundered for all these decades, what kind of brands would no longer sell to them because they don't want their stuff in a Macy's Aaron Powell."
+    },
+    {
+      "end" : 1355.44,
+      "start" : 1351.04,
+      "text" : "Well Macy's has historically abused their vendor community."
+    },
+    {
+      "end" : 1365.44,
+      "start" : 1355.44,
+      "text" : "I've used that word and some former CEOs at Federated Macy's have objected to it, but they can't object very loudly because they know damn well that I'm telling the truth."
+    },
+    {
+      "end" : 1372.72,
+      "start" : 1365.44,
+      "text" : "They have been historically tremendously one sided in their behavior."
+    },
+    {
+      "end" : 1379.84,
+      "start" : 1372.72,
+      "text" : "Many brands grudgingly supported their merchandise being sold at Macy's because they did not have an alternative."
+    },
+    {
+      "end" : 1382.24,
+      "start" : 1379.84,
+      "text" : "They now have alternatives."
+    },
+    {
+      "end" : 1386,
+      "start" : 1382.24,
+      "text" : "What specifically did Macy's do to their vendors that you're calling abusive?"
+    },
+    {
+      "end" : 1387.84,
+      "start" : 1386,
+      "text" : "Paying late, not marketing well?"
+    },
+    {
+      "end" : 1388.8,
+      "start" : 1387.84,
+      "text" : "What was it?"
+    },
+    {
+      "end" : 1406.16,
+      "start" : 1388.8,
+      "text" : "They would be pounded for best price up front, and then there would be demands made for advertising and presentation allowances, demands made for gross margin guarantees, markdown protection, exclusives."
+    },
+    {
+      "end" : 1409.76,
+      "start" : 1406.16,
+      "text" : "In other words, if you sell us, you can't sell anybody else."
+    },
+    {
+      "end" : 1423.3600000000001,
+      "start" : 1409.76,
+      "text" : "Macy's played the We Want It All Our Way game for many, many years, and many brands basically, took a deep breath and did business with them because that was the only game in town for their merchandise."
+    },
+    {
+      "end" : 1427.1200000000001,
+      "start" : 1423.3600000000001,
+      "text" : "So if we were talking 10 years from now, do you think Macy still exists?"
+    },
+    {
+      "end" : 1428.88,
+      "start" : 1427.1200000000001,
+      "text" : "Aaron Powell It's problematic."
+    },
+    {
+      "end" : 1449.76,
+      "start" : 1428.88,
+      "text" : "They have survived several attempts by activists to move into the stock to monetize their assets, which is principally their real estate, and they've all failed because frankly there's no there, even though you could argue that Harold Square and New York, Union Square and San Francisco are worth an enormous amount of money."
+    },
+    {
+      "end" : 1456,
+      "start" : 1449.76,
+      "text" : "Is there a buyer who's going to pay billions of dollars to put an office tower on top of Harold Square?"
+    },
+    {
+      "end" : 1457.68,
+      "start" : 1456,
+      "text" : "Answer is no."
+    },
+    {
+      "end" : 1471.2,
+      "start" : 1457.68,
+      "text" : "So Mark, I am not a business analyst of any sort, but when I look at Macy's, I see a company whose market cap is a bit over four billion dollars with a real estate portfolio estimated at roughly double that."
+    },
+    {
+      "end" : 1481.28,
+      "start" : 1471.2,
+      "text" : "And when I look at their other assets, their Thanksgiving Day parade is massive, not only as marketing for the brand itself, but as a profit center."
+    },
+    {
+      "end" : 1490.24,
+      "start" : 1481.28,
+      "text" : "They're selling sponsorships for the balloons and floats and who knows what else, and they're getting a share of the ad sales for one of the biggest TV events of the year."
+    },
+    {
+      "end" : 1500.88,
+      "start" : 1490.24,
+      "text" : "So am I crazy, Mark, for thinking that the Macy's parade is maybe the single most valuable asset that Macy still has?"
+    },
+    {
+      "end" : 1510.96,
+      "start" : 1500.88,
+      "text" : "Well, you're not crazy, but you have to reflect on the fact that for anything to have value, there has to be someone who holds the value and someone who has an interest in possessing the value."
+    },
+    {
+      "end" : 1520.96,
+      "start" : 1510.96,
+      "text" : "Would the Super Bowl ad madness have any firmament if there was no Super Bowl supporting that three-hour window?"
+    },
+    {
+      "end" : 1531.92,
+      "start" : 1520.96,
+      "text" : "So the parade has been forever attached to Macy's as a name, and over the years it became a commercial issue unto itself."
+    },
+    {
+      "end" : 1546.08,
+      "start" : 1531.92,
+      "text" : "They don't tell you how much it costs to put on the parade."
+    },
+    {
+      "end" : 1550.72,
+      "start" : 1546.08,
+      "text" : "Presented during the parade that doesn't have a price tag attached."
+    },
+    {
+      "end" : 1559.04,
+      "start" : 1550.72,
+      "text" : "But of course, it doesn't translate these days into footsteps doing business inside the store."
+    },
+    {
+      "end" : 1564.72,
+      "start" : 1559.04,
+      "text" : "After the break, Tony Spring thinks he knows how to get the footsteps inside the store."
+    },
+    {
+      "end" : 1566.08,
+      "start" : 1564.72,
+      "text" : "I'm Steven Dubner."
+    },
+    {
+      "end" : 1567.52,
+      "start" : 1566.08,
+      "text" : "This is Freekonomics Radio."
+    },
+    {
+      "end" : 1574.32,
+      "start" : 1567.52,
+      "text" : "We'll be right back."
+    },
+    {
+      "end" : 1580.72,
+      "start" : 1574.32,
+      "text" : "Freakonomics Radio is sponsored by Dell, introducing your new Dell PC powered by the Intel Core Ultra Processor."
+    },
+    {
+      "end" : 1595.92,
+      "start" : 1580.72,
+      "text" : "It helps you handle a lot even when your holiday to-do list gets to be a lot, because it's built with ally- bdaattery plus powerful AI features that help you do it all with ease from editing images to drafting emails to summarizing large documents to multitasking."
+    },
+    {
+      "end" : 1616.48,
+      "start" : 1595.92,
+      "text" : "So you can organize your holiday shopping and make custom holiday decor and search for great holiday deals and respond to holiday requests and customer questions and customers requesting custom things and plan the perfect holiday dinner for vegans, vegetarians, pescatarians, and Uncle Mike's carnivore diet."
+    },
+    {
+      "end" : 1620.64,
+      "start" : 1616.48,
+      "text" : "Luckily, you can get a PC that helps you do it all faster so you can get it all done."
+    },
+    {
+      "end" : 1625.68,
+      "start" : 1620.64,
+      "text" : "That's the power of a Dell PC with Intel inside, backed by Dell's Price Match."
+    },
+    {
+      "end" : 1631.04,
+      "start" : 1625.68,
+      "text" : "guarantee Get yours at the best price of the year by visiting Dell.com\/slash holiday."
+    },
+    {
+      "end" : 1632.8,
+      "start" : 1631.04,
+      "text" : "Terms and conditions apply."
+    },
+    {
+      "end" : 1642.24,
+      "start" : 1632.8,
+      "text" : "See Dell.com for details."
+    },
+    {
+      "end" : 1646.32,
+      "start" : 1642.24,
+      "text" : "Free economics radio is sponsored by FedEx, the new power move."
+    },
+    {
+      "end" : 1657.76,
+      "start" : 1646.32,
+      "text" : "You know those people who still rely on old school business power moves, like showing up late to meetings because they're so busy, or wearing a big shiny gold watch and making sure everyone notices."
+    },
+    {
+      "end" : 1663.76,
+      "start" : 1657.76,
+      "text" : "Maybe it's the person who takes long dramatic pauses every time they speak because they're so profound."
+    },
+    {
+      "end" : 1669.6000000000001,
+      "start" : 1663.76,
+      "text" : "But let's be honest, all those old school power moves won't keep your supply chain moving smoothly."
+    },
+    {
+      "end" : 1671.04,
+      "start" : 1669.6000000000001,
+      "text" : "The real power move?"
+    },
+    {
+      "end" : 1684.8,
+      "start" : 1671.04,
+      "text" : "Using data insights from FedEx to move your business forward, like using predictive analytics to manage your entire supply chain, or calling out logistics problems before they arise, and sitting at the forefront of business intelligence."
+    },
+    {
+      "end" : 1693.04,
+      "start" : 1684.8,
+      "text" : "That's how FedEx helps modern businesses stay ahead, anticipating change, rerouting around challenges and keeping everything running smoothly."
+    },
+    {
+      "end" : 1695.3600000000001,
+      "start" : 1693.04,
+      "text" : "FedEx, the new power move."
+    },
+    {
+      "end" : 1706.24,
+      "start" : 1695.3600000000001,
+      "text" : "Visit FedEx.com slash new power move to learn more.ree economics radio is sponsored by Capital One."
+    },
+    {
+      "end" : 1714,
+      "start" : 1706.24,
+      "text" : "Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees."
+    },
+    {
+      "end" : 1716,
+      "start" : 1714,
+      "text" : "Just ask the Capital One bank guy."
+    },
+    {
+      "end" : 1719.04,
+      "start" : 1716,
+      "text" : "It's pretty much all he talks about in a good way."
+    },
+    {
+      "end" : 1722.64,
+      "start" : 1719.04,
+      "text" : "He'd also tell you that this podcast is his favorite podcast."
+    },
+    {
+      "end" : 1724.72,
+      "start" : 1722.64,
+      "text" : "Thanks, Capital One Bank Guy."
+    },
+    {
+      "end" : 1726.16,
+      "start" : 1724.72,
+      "text" : "What's in your wallet?"
+    },
+    {
+      "end" : 1727.1200000000001,
+      "start" : 1726.16,
+      "text" : "Terms apply."
+    },
+    {
+      "end" : 1749.2,
+      "start" : 1727.1200000000001,
+      "text" : "See Capital One dot com slash bank Capital One N A member F D I C We've been talking about the fate of Macy's with Mark Cohen, a former retail executive and business school professor, and Tony Spring, the CEO of Macy's."
+    },
+    {
+      "end" : 1756,
+      "start" : 1749.2,
+      "text" : "Spring spent nine years as CEO of Bloomingdales, a more upscale store within the Macy's portfolio."
+    },
+    {
+      "end" : 1759.8400000000001,
+      "start" : 1756,
+      "text" : "And in early 2024, he took over the mothership."
+    },
+    {
+      "end" : 1764.8,
+      "start" : 1759.8400000000001,
+      "text" : "Spring knows, as does the entire retail industry, that Macy's Inc."
+    },
+    {
+      "end" : 1769.3600000000001,
+      "start" : 1764.8,
+      "text" : "is not in great shape, so he has been asked to engineer tur anaround."
+    },
+    {
+      "end" : 1773.52,
+      "start" : 1769.3600000000001,
+      "text" : "He came up with a strategy called a bold new chapter."
+    },
+    {
+      "end" : 1781.6000000000001,
+      "start" : 1773.52,
+      "text" : "The strategy is made up of really strengthening the Macy's brand, and that includes divesting about 150 stores that are no longer."
+    },
+    {
+      "end" : 1788.96,
+      "start" : 1781.6000000000001,
+      "text" : "relevant When Springs says divesting, that means shutting down the failing stores and selling the real estate."
+    },
+    {
+      "end" : 1792.4,
+      "start" : 1788.96,
+      "text" : "What else is in the bold new chapter strategy?"
+    },
+    {
+      "end" : 1796.4,
+      "start" : 1792.4,
+      "text" : "It's investing into the improvements within our merchandise assortment."
+    },
+    {
+      "end" : 1806.16,
+      "start" : 1796.4,
+      "text" : "We've revamped the entire private brand portfolio, exiting brands that were no longer relevant, introducing new brands that resonate with the multi-generations of consumers."
+    },
+    {
+      "end" : 1808.4,
+      "start" : 1806.16,
+      "text" : "I asked for an example of this."
+    },
+    {
+      "end" : 1814.08,
+      "start" : 1808.4,
+      "text" : "Right now you have this trend on uh young kids, boys wearing perfume, you know, cologne."
+    },
+    {
+      "end" : 1816.24,
+      "start" : 1814.08,
+      "text" : "They've seen it on social media, on TikTok."
+    },
+    {
+      "end" : 1817.52,
+      "start" : 1816.24,
+      "text" : "And so we got to lean into that."
+    },
+    {
+      "end" : 1825.44,
+      "start" : 1817.52,
+      "text" : "We've got to have the best assortment of perfumes and colognes for kids so that they think of Macy's as being a great destination to buy their fragrances."
+    },
+    {
+      "end" : 1826,
+      "start" : 1825.44,
+      "text" : "Okay."
+    },
+    {
+      "end" : 1828.64,
+      "start" : 1826,
+      "text" : "What else is Tony Spring working on?"
+    },
+    {
+      "end" : 1835.8400000000001,
+      "start" : 1828.64,
+      "text" : "Improving the condition of our stores, more staffing, better visual presentation, embracing different store formats."
+    },
+    {
+      "end" : 1841.44,
+      "start" : 1835.8400000000001,
+      "text" : "And then at the Bloomingdales and Blue Mercury brands, it's leaning into the affluent and luxury consumer."
+    },
+    {
+      "end" : 1854.88,
+      "start" : 1841.44,
+      "text" : "And surrounding it is this desire to take cost that is not visible to the consumer through automation, through reducing complexity out of the business, so that we can give the customer just a better experience no matter how they shop."
+    },
+    {
+      "end" : 1856.96,
+      "start" : 1854.88,
+      "text" : "So here's something you've said in the past."
+    },
+    {
+      "end" : 1858,
+      "start" : 1856.96,
+      "text" : "I love stores."
+    },
+    {
+      "end" : 1861.68,
+      "start" : 1858,
+      "text" : "I'm a store guy, but bad stores are bad stores."
+    },
+    {
+      "end" : 1866.72,
+      "start" : 1861.68,
+      "text" : "You just told me that you are planning to close a lot of stores that are no longer relevant."
+    },
+    {
+      "end" : 1868.8,
+      "start" : 1866.72,
+      "text" : "What makes a bad store bad?"
+    },
+    {
+      "end" : 1871.3600000000001,
+      "start" : 1868.8,
+      "text" : "What makes an irrelevant store irrelevant?"
+    },
+    {
+      "end" : 1873.8400000000001,
+      "start" : 1871.3600000000001,
+      "text" : "Yeah, the last store open in the mall."
+    },
+    {
+      "end" : 1878.4,
+      "start" : 1873.8400000000001,
+      "text" : "The store was built in nineteen sixty five for a different time period."
+    },
+    {
+      "end" : 1883.28,
+      "start" : 1878.4,
+      "text" : "The store has a roof that's about thirty seven years old on a thirty year lifeline."
+    },
+    {
+      "end" : 1887.1200000000001,
+      "start" : 1883.28,
+      "text" : "The elevator doesn't work, the escalator breaks five times a year."
+    },
+    {
+      "end" : 1893.44,
+      "start" : 1887.1200000000001,
+      "text" : "The brands don't want to sell us, so it's made up of private brands and brands that don't care about their points of distribution."
+    },
+    {
+      "end" : 1895.44,
+      "start" : 1893.44,
+      "text" : "I'm looking at something here, Tony."
+    },
+    {
+      "end" : 1905.04,
+      "start" : 1895.44,
+      "text" : "It's a consumer survey with twelve hundred respondents, it shows that awareness of Macy's is incredibly high, 88%."
+    },
+    {
+      "end" : 1916.24,
+      "start" : 1905.04,
+      "text" : "But then when you look at the other categories, Macy's popularity, usage, loyalty, Macy's buzz, those are all in the 20 to 30 percent range."
+    },
+    {
+      "end" : 1918.8,
+      "start" : 1916.24,
+      "text" : "That is an unbelievable gap."
+    },
+    {
+      "end" : 1921.76,
+      "start" : 1918.8,
+      "text" : "So what makes you think you can recover from that?"
+    },
+    {
+      "end" : 1924.48,
+      "start" : 1921.76,
+      "text" : "I'm a big believer in self-awareness and ambition."
+    },
+    {
+      "end" : 1927.8400000000001,
+      "start" : 1924.48,
+      "text" : "You need to know who you are before you can get to what you want to be."
+    },
+    {
+      "end" : 1935.52,
+      "start" : 1927.8400000000001,
+      "text" : "We spent uh greater part of 18 months basically saying we're not good at this, we need to work on that, this needs to be stronger."
+    },
+    {
+      "end" : 1942.08,
+      "start" : 1935.52,
+      "text" : "We did our own version of that same survey which said high level of awareness, not a strong enough level of conversion."
+    },
+    {
+      "end" : 1944.16,
+      "start" : 1942.08,
+      "text" : "The issue remains with us."
+    },
+    {
+      "end" : 1946.8,
+      "start" : 1944.16,
+      "text" : "How well do we execute our strategy?"
+    },
+    {
+      "end" : 1948.24,
+      "start" : 1946.8,
+      "text" : "How fast do we move?"
+    },
+    {
+      "end" : 1950.4,
+      "start" : 1948.24,
+      "text" : "How well do we communicate those changes?"
+    },
+    {
+      "end" : 1955.28,
+      "start" : 1950.4,
+      "text" : "Aaron Powell So there is a practice among some businesses called a pre-mortem."
+    },
+    {
+      "end" : 1957.1200000000001,
+      "start" : 1955.28,
+      "text" : "I don't know if you've ever heard of this."
+    },
+    {
+      "end" : 1958.8,
+      "start" : 1957.1200000000001,
+      "text" : "I am very fond of it."
+    },
+    {
+      "end" : 1966.96,
+      "start" : 1958.8,
+      "text" : "So you know, you imagine that things have failed and then before it has a chance to fail, you sit and think, well, why would it have failed?"
+    },
+    {
+      "end" : 1968.4,
+      "start" : 1966.96,
+      "text" : "And let's fix that now."
+    },
+    {
+      "end" : 1971.28,
+      "start" : 1968.4,
+      "text" : "So if you were to pre-mortem Macy's Inc."
+    },
+    {
+      "end" : 1977.76,
+      "start" : 1971.28,
+      "text" : "right now, what do you think are the biggest existential threats to its continued longevity."
+    },
+    {
+      "end" : 1978.88,
+      "start" : 1977.76,
+      "text" : "Is it online shopping?"
+    },
+    {
+      "end" : 1980.4,
+      "start" : 1978.88,
+      "text" : "Is it discount retailers?"
+    },
+    {
+      "end" : 1984.24,
+      "start" : 1980.4,
+      "text" : "Is it maybe people just deciding to buy less stuff, et cetera, et cetera?"
+    },
+    {
+      "end" : 1993.28,
+      "start" : 1984.24,
+      "text" : "Aaron Powell I think disintermediation, the brands being able to go directly to the consumer, the brands deciding that you are not as important a point of distribution."
+    },
+    {
+      "end" : 1996.48,
+      "start" : 1993.28,
+      "text" : "And this comes down to being, you know, a people business."
+    },
+    {
+      "end" : 2004.16,
+      "start" : 1996.48,
+      "text" : "The people that are attentive, return your phone calls, texts or emails, pay you on time, treat your brand with respect."
+    },
+    {
+      "end" : 2008,
+      "start" : 2004.16,
+      "text" : "Those are the people that are going to continue to sell you or want to sell you in the future."
+    },
+    {
+      "end" : 2013.2,
+      "start" : 2008,
+      "text" : "Name a brand partner or two that's pulled out of Macy's over the last five or ten years."
+    },
+    {
+      "end" : 2014.64,
+      "start" : 2013.2,
+      "text" : "Nike would be one."
+    },
+    {
+      "end" : 2022.48,
+      "start" : 2014.64,
+      "text" : "They took an eighteen month break and then decided that they needed more points of distribution and we've built a nice business back together again."
+    },
+    {
+      "end" : 2025.8400000000001,
+      "start" : 2022.48,
+      "text" : "Name a couple brands that you'd like to have that you don't have yet."
+    },
+    {
+      "end" : 2038.32,
+      "start" : 2025.8400000000001,
+      "text" : "We would love to have Tory Birch at Macy's."
+    },
+    {
+      "end" : 2046.8,
+      "start" : 2038.32,
+      "text" : "So what is that kind of conversation like with a brand like let's say Tory Birch of trying to convert them or include them in Macy's since they're already in Bloomingdale's."
+    },
+    {
+      "end" : 2058.4,
+      "start" : 2046.8,
+      "text" : "Yeah, you have to talk about again the benefit of a multi-brand retail environment where you're talking to 41 million active customers."
+    },
+    {
+      "end" : 2063.52,
+      "start" : 2058.4,
+      "text" : "Based on the scale of Macy's, you have more affluent customers shopping at Macy's than shop at Bloomingdale's."
+    },
+    {
+      "end" : 2067.6,
+      "start" : 2063.52,
+      "text" : "You have a more diverse customer shopping at Macy's, Bloomingdale's."
+    },
+    {
+      "end" : 2071.68,
+      "start" : 2067.6,
+      "text" : "a great business I love that brand having grown up there, but that's a slice of America."
+    },
+    {
+      "end" : 2073.12,
+      "start" : 2071.68,
+      "text" : "Macy's is America."
+    },
+    {
+      "end" : 2081.28,
+      "start" : 2073.12,
+      "text" : "And if you really want to understand how fashion works across the country, you need a partner like Macy's that can help give you that feedback."
+    },
+    {
+      "end" : 2084.96,
+      "start" : 2081.28,
+      "text" : "Describe for me what a good Macy's store looks like in the near future."
+    },
+    {
+      "end" : 2088.32,
+      "start" : 2084.96,
+      "text" : "What specifically is changing and improving?"
+    },
+    {
+      "end" : 2096.08,
+      "start" : 2088.32,
+      "text" : "You hopefully will go to Macy's and find a wide variety of assortment, but not the endless aisle you've been hearing about."
+    },
+    {
+      "end" : 2098.4,
+      "start" : 2096.08,
+      "text" : "I don't want to wander down someplace that never ends."
+    },
+    {
+      "end" : 2102.56,
+      "start" : 2098.4,
+      "text" : "I want to go to the best aisle where I have actual variety, not redundancy."
+    },
+    {
+      "end" : 2108.7200000000003,
+      "start" : 2102.56,
+      "text" : "So you're going to show me a handful of items in a category 'cause I want to buy a polo shirt and you're gonna give me good, better, best."
+    },
+    {
+      "end" : 2110.64,
+      "start" : 2108.7200000000003,
+      "text" : "You're gonna be in stock in my size."
+    },
+    {
+      "end" : 2113.2,
+      "start" : 2110.64,
+      "text" : "I'm gonna be greeted by somebody who's pleasant."
+    },
+    {
+      "end" : 2116,
+      "start" : 2113.2,
+      "text" : "I'm gonna be rung up efficiently and effectively."
+    },
+    {
+      "end" : 2125.92,
+      "start" : 2116,
+      "text" : "I also might go and meet my uh boyfriend's, girlfriends, whoever it is, and meander through the store and actually discover some things that I haven't heard of or seen before."
+    },
+    {
+      "end" : 2136.2400000000002,
+      "start" : 2125.92,
+      "text" : "I might stop into the cafe or to the restaurant or Starbucks and grab a latte, and I'll remember the experience as being Macy's is there for me when I need them."
+    },
+    {
+      "end" : 2140.4,
+      "start" : 2136.2400000000002,
+      "text" : "We spoke with one retail analyst who, by the way, is a fan of yours."
+    },
+    {
+      "end" : 2143.12,
+      "start" : 2140.4,
+      "text" : "He thinks the turnaround is really promising."
+    },
+    {
+      "end" : 2149.68,
+      "start" : 2143.12,
+      "text" : "He said that your parade, quote generates magic, but that's not always the experience of shopping at Macy's."
+    },
+    {
+      "end" : 2155.6,
+      "start" : 2149.68,
+      "text" : "He said you guys run this fantastic parade, but you can't put any magic into your shop floor."
+    },
+    {
+      "end" : 2157.6,
+      "start" : 2155.6,
+      "text" : "I'm curious to hear your response to that."
+    },
+    {
+      "end" : 2165.52,
+      "start" : 2157.6,
+      "text" : "And I'm also curious to know whether you think about integrating the parade designers into your customer experience team somehow."
+    },
+    {
+      "end" : 2168.64,
+      "start" : 2165.52,
+      "text" : "Yeah, I think uh challenge given, challenge taken."
+    },
+    {
+      "end" : 2177.2,
+      "start" : 2168.64,
+      "text" : "How do I recreate a once-a-year phenomenon that has let's just say a few dollars thrown at it to make it extremely magical."
+    },
+    {
+      "end" : 2182.08,
+      "start" : 2177.2,
+      "text" : "I think it should inspire us to step up and to deliver something far better."
+    },
+    {
+      "end" : 2189.2000000000003,
+      "start" : 2182.08,
+      "text" : "But I think we also can't hold the mirror on the parade to the store experience and say that's what every day is going to be."
+    },
+    {
+      "end" : 2200.48,
+      "start" : 2189.2000000000003,
+      "text" : "Given that you want to grow your luxury business and given your Bloomingdale's background, I'm curious if you're thinking about trying to use the parade to move things in that direction."
+    },
+    {
+      "end" : 2205.6,
+      "start" : 2200.48,
+      "text" : "Should we look for a Tory Birch float, for instance, or anything in that direction?"
+    },
+    {
+      "end" : 2209.92,
+      "start" : 2205.6,
+      "text" : "If Tory Birch had something to say in the parade, I'd love for them to be in the parade."
+    },
+    {
+      "end" : 2217.36,
+      "start" : 2209.92,
+      "text" : "You will see more integration in the future of the things that we do in the parade to the things that we do in the store."
+    },
+    {
+      "end" : 2218.64,
+      "start" : 2217.36,
+      "text" : "Think about it this way."
+    },
+    {
+      "end" : 2226.8,
+      "start" : 2218.64,
+      "text" : "Black Friday is the kickoff to the final parts of the holiday season and we own America in conveying that message."
+    },
+    {
+      "end" : 2233.44,
+      "start" : 2226.8,
+      "text" : "Thanksgiving is a family celebration that begins not on the day of Thanksgiving, begins several weeks before."
+    },
+    {
+      "end" : 2235.04,
+      "start" : 2233.44,
+      "text" : "Do you have enough chairs?"
+    },
+    {
+      "end" : 2236.48,
+      "start" : 2235.04,
+      "text" : "Do you have enough plates?"
+    },
+    {
+      "end" : 2237.92,
+      "start" : 2236.48,
+      "text" : "How do I keep people active?"
+    },
+    {
+      "end" : 2239.76,
+      "start" : 2237.92,
+      "text" : "Do I have games for them to play?"
+    },
+    {
+      "end" : 2273.04,
+      "start" : 2239.76,
+      "text" : "So we have this opportunity to be a part of America's Day in a very meaningful way before and the kickoff to America's celebration of the gifting time of the year with uh twenty-eight and a half or twenty-nine million people watching by the way Macy's does already sell some Tory Birch merchandise, like watches, fragrances, and sunglasses, but not the more expensive items like bags or shoes, which they would like to sell."
+    },
+    {
+      "end" : 2278.32,
+      "start" : 2273.04,
+      "text" : "So we just heard Tony Springs' plan for a bold new chapter."
+    },
+    {
+      "end" : 2279.84,
+      "start" : 2278.32,
+      "text" : "Will it work?"
+    },
+    {
+      "end" : 2281.12,
+      "start" : 2279.84,
+      "text" : "I have no idea."
+    },
+    {
+      "end" : 2284.16,
+      "start" : 2281.12,
+      "text" : "The bad news coming from Macy's doesn't seem to stop."
+    },
+    {
+      "end" : 2298.48,
+      "start" : 2284.16,
+      "text" : "Last November, Macy's revealed that an employee had intentionally hidden around $150 million in delivery expenses over the previous few years, this news forced a delay of the company's quarterly earnings report."
+    },
+    {
+      "end" : 2300.2400000000002,
+      "start" : 2298.48,
+      "text" : "That is bad."
+    },
+    {
+      "end" : 2312.7200000000003,
+      "start" : 2300.2400000000002,
+      "text" : "While the retail industry may not be as technically complicated as a lot of the industries we're used to talking about on this show, like healthcare or artificial intelligence, it is plenty complicated in its own way."
+    },
+    {
+      "end" : 2318.96,
+      "start" : 2312.7200000000003,
+      "text" : "This makes it hard for any outsider to predict whether Tony Spring will be successful."
+    },
+    {
+      "end" : 2329.92,
+      "start" : 2318.96,
+      "text" : "So we went back to an insider, Mark Cohen, the former retail executive and business school professor, to ask what he thinks."
+    },
+    {
+      "end" : 2333.84,
+      "start" : 2329.92,
+      "text" : "Trevor Burrus, Jr.: Well, I'm generally speaking hostile to sloganeering."
+    },
+    {
+      "end" : 2338.96,
+      "start" : 2333.84,
+      "text" : "And Macy's has been guilty of sloganeering for well over a decade."
+    },
+    {
+      "end" : 2345.92,
+      "start" : 2338.96,
+      "text" : "They were invested in the magic of Macy's, which basically there was no magic to Macy's."
+    },
+    {
+      "end" : 2356.88,
+      "start" : 2345.92,
+      "text" : "The most recent CEO was all invested in something called a Polaris strategy, which, not to be crude, was more bullshit than real."
+    },
+    {
+      "end" : 2363.76,
+      "start" : 2356.88,
+      "text" : "There's no there there behind what Tony Spring has been able or willing to describe."
+    },
+    {
+      "end" : 2375.12,
+      "start" : 2363.76,
+      "text" : "His general description of improvements in terms of making the assortments more relevant to consumers, that's kind of like motherhood and apple pie."
+    },
+    {
+      "end" : 2388.64,
+      "start" : 2375.12,
+      "text" : "I don't decry him for saying those words, but at the end of the day, I'm from the school that says, come up with the idea, put the idea in place, measure its success v failure, and once it's successful, start talking about it."
+    },
+    {
+      "end" : 2391.2000000000003,
+      "start" : 2388.64,
+      "text" : "But until it's successful, keep your mouth shut."
+    },
+    {
+      "end" : 2394.64,
+      "start" : 2391.2000000000003,
+      "text" : "Because you create expectations that may not be realistic."
+    },
+    {
+      "end" : 2397.76,
+      "start" : 2394.64,
+      "text" : "Aaron Powell When's the last time you were in a Macy's?"
+    },
+    {
+      "end" : 2398.7200000000003,
+      "start" : 2397.76,
+      "text" : "A few months ago."
+    },
+    {
+      "end" : 2408.56,
+      "start" : 2398.7200000000003,
+      "text" : "I passed through Harold Square whenever I'm in Midtown, and some time before that I hit a bunch of their suburban branches in Metro New York."
+    },
+    {
+      "end" : 2417.28,
+      "start" : 2408.56,
+      "text" : "When I'm asked to comment about someone's success or failure, I try to be at least up to date in the observations that I make."
+    },
+    {
+      "end" : 2420.32,
+      "start" : 2417.28,
+      "text" : "Trevor Burrus, Jr.aron Powell So what did those Macy stories look like to you?"
+    },
+    {
+      "end" : 2421.52,
+      "start" : 2420.32,
+      "text" : "They look terrible."
+    },
+    {
+      "end" : 2427.84,
+      "start" : 2421.52,
+      "text" : "I'm told that Tony Spring has begun a process of cleaning up their act."
+    },
+    {
+      "end" : 2430.8,
+      "start" : 2427.84,
+      "text" : "I don't know him, but I know him by way of background."
+    },
+    {
+      "end" : 2439.2000000000003,
+      "start" : 2430.8,
+      "text" : "He did a marvelous job of ensuring that Bloomingdale's was a pristine, up to date, well presented store."
+    },
+    {
+      "end" : 2444.88,
+      "start" : 2439.2000000000003,
+      "text" : "And so I'm told there has begun a process of improvement that's visible."
+    },
+    {
+      "end" : 2454.7200000000003,
+      "start" : 2444.88,
+      "text" : "This literally means turning the stores into something far more clean, neat, and friendly than they had become under prior regimes."
+    },
+    {
+      "end" : 2455.36,
+      "start" : 2454.7200000000003,
+      "text" : "Aaron Powell Okay."
+    },
+    {
+      "end" : 2460.88,
+      "start" : 2455.36,
+      "text" : "So the clean, neat and friendly, I get, but you're also talking about the lack of good assortment, the lack of stuff that people want."
+    },
+    {
+      "end" : 2462.48,
+      "start" : 2460.88,
+      "text" : "What do they need to do there?"
+    },
+    {
+      "end" : 2471.92,
+      "start" : 2462.48,
+      "text" : "Well, you have to start with clean, neat and friendly, and then you have to fill the store with merchandise customers really want to buy."
+    },
+    {
+      "end" : 2473.92,
+      "start" : 2471.92,
+      "text" : "How hard can that be to figure out?"
+    },
+    {
+      "end" : 2476.64,
+      "start" : 2473.92,
+      "text" : "That is the codex of retailing."
+    },
+    {
+      "end" : 2479.28,
+      "start" : 2476.64,
+      "text" : "That is enormously difficult to do."
+    },
+    {
+      "end" : 2497.6,
+      "start" : 2479.28,
+      "text" : "It takes years and years and years to build a team of people who can create assortments, which by the way, have to be created, recreated, represented almost every day, especially today when the customers' loyalty can't be counted upon."
+    },
+    {
+      "end" : 2500.7200000000003,
+      "start" : 2497.6,
+      "text" : "If you please a customer today, they may very well come back."
+    },
+    {
+      "end" : 2505.36,
+      "start" : 2500.7200000000003,
+      "text" : "If you piss them off today, they may never come back."
+    },
+    {
+      "end" : 2514.4,
+      "start" : 2505.36,
+      "text" : "After the break, we talked to a very different kind of retailer who seems to have the loyal customer thing all worked out."
+    },
+    {
+      "end" : 2515.92,
+      "start" : 2514.4,
+      "text" : "It's gorgeous inside."
+    },
+    {
+      "end" : 2518,
+      "start" : 2515.92,
+      "text" : "The building itself is so cool."
+    },
+    {
+      "end" : 2526.8,
+      "start" : 2518,
+      "text" : "I hate change, but I think some of the stuff he's doing is good."
+    },
+    {
+      "end" : 2528.08,
+      "start" : 2526.8,
+      "text" : "I'm Steven Dubner."
+    },
+    {
+      "end" : 2529.44,
+      "start" : 2528.08,
+      "text" : "This is Freakonomics Radio."
+    },
+    {
+      "end" : 2539.92,
+      "start" : 2529.44,
+      "text" : "We'll be right back."
+    },
+    {
+      "end" : 2545.68,
+      "start" : 2539.92,
+      "text" : "Freakonomics Radio is sponsored by Range Rover Sport, a vehicle that blends power, poise, and performance."
+    },
+    {
+      "end" : 2550.48,
+      "start" : 2545.68,
+      "text" : "With a distinctly British design, the Range Rover Sport is built to take on roads anywhere."
+    },
+    {
+      "end" : 2554.88,
+      "start" : 2550.48,
+      "text" : "Free from unnecessary details, its raw power and agility shine."
+    },
+    {
+      "end" : 2560.64,
+      "start" : 2554.88,
+      "text" : "Combining a dynamic sporting personality with elegance and agility, it delivers an instinctive drive."
+    },
+    {
+      "end" : 2565.28,
+      "start" : 2560.64,
+      "text" : "Its assertive stance hints at an equally refined driving performance."
+    },
+    {
+      "end" : 2571.68,
+      "start" : 2565.28,
+      "text" : "Defining true modern luxury, the Range Rover sport features the latest innovations in comfort and convenience."
+    },
+    {
+      "end" : 2579.76,
+      "start" : 2571.68,
+      "text" : "The cabin air purification system, alongside the active noise cancellation creates a new level of quality, comfort, and control."
+    },
+    {
+      "end" : 2586.32,
+      "start" : 2579.76,
+      "text" : "Terrain Response 2 offers seven terrain modes to choose from, fine-tuning the vehicle for any challenging roads ahead."
+    },
+    {
+      "end" : 2596.16,
+      "start" : 2586.32,
+      "text" : "A force inside and out, the Range Rover Sport is available with a choice of powerful engines, including a plug-in hybrid with an estimated range of fifty-three miles."
+    },
+    {
+      "end" : 2604.96,
+      "start" : 2596.16,
+      "text" : "Build your Range Rover Sport at Range Rover.com slash US slash sport."
+    },
+    {
+      "end" : 2609.04,
+      "start" : 2604.96,
+      "text" : "Freeconomics radio is sponsored by FedEx, the new power move."
+    },
+    {
+      "end" : 2620.48,
+      "start" : 2609.04,
+      "text" : "You know those people who still rely on old school business power moves like showing up late to meetings because they're so busy or wearing a big shiny gold watch and making sure everyone notices."
+    },
+    {
+      "end" : 2626.48,
+      "start" : 2620.48,
+      "text" : "Maybe it's the person who takes long dramatic pauses every time they speak because they're so profound?"
+    },
+    {
+      "end" : 2632.16,
+      "start" : 2626.48,
+      "text" : "But let's be honest: all those old school power moves won't keep your supply chain moving smoothly."
+    },
+    {
+      "end" : 2633.6,
+      "start" : 2632.16,
+      "text" : "The real power move?"
+    },
+    {
+      "end" : 2647.44,
+      "start" : 2633.6,
+      "text" : "Using data insights from FedEx to move your business forward, like using predictive analytics to manage your entire supply chain, or calling out logistics problems before they arise, and sitting at the forefront of business intelligence."
+    },
+    {
+      "end" : 2655.68,
+      "start" : 2647.44,
+      "text" : "That's how FedEx helps modern businesses stay ahead, anticipating change, rerouting around challenges, and keeping everything running smoothly."
+    },
+    {
+      "end" : 2658,
+      "start" : 2655.68,
+      "text" : "FedEx, the new power move."
+    },
+    {
+      "end" : 2666.56,
+      "start" : 2658,
+      "text" : "Visit FedEx.com slash new power move to learn more."
+    },
+    {
+      "end" : 2670.96,
+      "start" : 2666.56,
+      "text" : "There's a new state-of-the-art center for advanced healthcare in Westchester."
+    },
+    {
+      "end" : 2674.56,
+      "start" : 2670.96,
+      "text" : "New York Presbyterian The One is now open."
+    },
+    {
+      "end" : 2680.08,
+      "start" : 2674.56,
+      "text" : "Where world-class doctors from Columbia provide expert adult and pediatric care for your family."
+    },
+    {
+      "end" : 2690.16,
+      "start" : 2680.08,
+      "text" : "A center where specialists in cardiology, neurosciences, cancer care, and more work together in one location, providing a seamless patient experience close to home."
+    },
+    {
+      "end" : 2692.56,
+      "start" : 2690.16,
+      "text" : "New York Presbyterian The One."
+    },
+    {
+      "end" : 2700.16,
+      "start" : 2692.56,
+      "text" : "Find a doctor now at nyp.org slash the one."
+    },
+    {
+      "end" : 2704.64,
+      "start" : 2700.16,
+      "text" : "How do you design a store where people are dying to shop."
+    },
+    {
+      "end" : 2715.04,
+      "start" : 2704.64,
+      "text" : "Macy's is trying to figure that out, again, having been largely unsuccessful for the past few decades after building one of the biggest department store chains in history."
+    },
+    {
+      "end" : 2720.16,
+      "start" : 2715.04,
+      "text" : "At the very least, Macy's does know how to throw a killer parade."
+    },
+    {
+      "end" : 2728.64,
+      "start" : 2720.16,
+      "text" : "In part one of this series, we heard from Jeff Kinney, author of the Diary of a Wimpy Kid books, which have sold more than 300 million copies."
+    },
+    {
+      "end" : 2736.96,
+      "start" : 2728.64,
+      "text" : "For the past 16 years, Kinney has had a giant balloon in the Macy's Parade, a balloon of Greg Hefley, the wimpy kid himself."
+    },
+    {
+      "end" : 2745.92,
+      "start" : 2736.96,
+      "text" : "Jeff Kinney lives with his family in Plainville, Massachusetts, and he has built a mid-sized media empire around WimpyKid."
+    },
+    {
+      "end" : 2750.8,
+      "start" : 2745.92,
+      "text" : "Spin-off book series, films, a musical, board games, quite a bit more."
+    },
+    {
+      "end" : 2756.16,
+      "start" : 2750.8,
+      "text" : "And he's got one more project that is related-ish, but not quite."
+    },
+    {
+      "end" : 2762.8,
+      "start" : 2756.16,
+      "text" : "We have a bookstore in the center of town which is called An Unlikely Story, which has been in business for about nine years."
+    },
+    {
+      "end" : 2767.44,
+      "start" : 2762.8,
+      "text" : "If I were to come visit your bookstore, how much wimpy kid do I see there?"
+    },
+    {
+      "end" : 2770.64,
+      "start" : 2767.44,
+      "text" : "You'd see very little wimpy Kid at the bookstore."
+    },
+    {
+      "end" : 2781.04,
+      "start" : 2770.64,
+      "text" : "We've got a statue of Greg on the main floor, but mostly it's a general bookstore."
+    },
+    {
+      "end" : 2783.6,
+      "start" : 2781.04,
+      "text" : "You've probably never heard of Plainville."
+    },
+    {
+      "end" : 2785.84,
+      "start" : 2783.6,
+      "text" : "Only about 10,000 people live there."
+    },
+    {
+      "end" : 2789.84,
+      "start" : 2785.84,
+      "text" : "I moved up to Massachusetts in 1995."
+    },
+    {
+      "end" : 2802.96,
+      "start" : 2789.84,
+      "text" : "My wife and I picked Plainville by creating a Venn diagram of three locations, Boston Logan Airport, TF Green Airport in Providence, and then my wife's parents live in Worcester."
+    },
+    {
+      "end" : 2808.16,
+      "start" : 2802.96,
+      "text" : "And right at the intersection of those three places is this little town called Plainville?"
+    },
+    {
+      "end" : 2819.36,
+      "start" : 2808.16,
+      "text" : "Plainville is about an hour's drive to Boston, half an hour to Providence, Rhode Island, and 15 minutes to Foxborough, Mass, where the New England Patriots of the NFL play their home games."
+    },
+    {
+      "end" : 2823.2000000000003,
+      "start" : 2819.36,
+      "text" : "So what led Jeff Kinney to build this big bookstore here?"
+    },
+    {
+      "end" : 2834.8,
+      "start" : 2823.2000000000003,
+      "text" : "We started creating it about twelve years ago on the site of an old market called Fox Market, which had been built in I think eighteen fifty three before Lincoln became president."
+    },
+    {
+      "end" : 2841.2000000000003,
+      "start" : 2834.8,
+      "text" : "It was a beloved market that everyone had at the center of their lives for decades and decades."
+    },
+    {
+      "end" : 2843.76,
+      "start" : 2841.2000000000003,
+      "text" : "It had been abandoned for about 17 years."
+    },
+    {
+      "end" : 2849.12,
+      "start" : 2843.76,
+      "text" : "So once Wimpy Kid took off, we bought the building to the building."
+    },
+    {
+      "end" : 2850.88,
+      "start" : 2849.12,
+      "text" : "Why did you want to do that?"
+    },
+    {
+      "end" : 2855.92,
+      "start" : 2850.88,
+      "text" : "You already had a very going concern with your property that had all these other tentacles."
+    },
+    {
+      "end" : 2861.12,
+      "start" : 2855.92,
+      "text" : "Why did you want to commit to a big physical property like a bookstore."
+    },
+    {
+      "end" : 2867.2000000000003,
+      "start" : 2861.12,
+      "text" : "You were probably doing this at the time when independent bookstores were closing at the rate of I don't know, one a week or something."
+    },
+    {
+      "end" : 2868.64,
+      "start" : 2867.2000000000003,
+      "text" : "So what gave you this impulse?"
+    },
+    {
+      "end" : 2879.68,
+      "start" : 2868.64,
+      "text" : "Aaron Powell A lot of people were really embarrassed by the derelict We just wanted to build a building that the town could feel proud of."
+    },
+    {
+      "end" : 2884.96,
+      "start" : 2879.68,
+      "text" : "So my goal was just to create a nice building and put the word Plainville on the side."
+    },
+    {
+      "end" : 2888.56,
+      "start" : 2884.96,
+      "text" : "We didn't give any thought to what was going to be inside."
+    },
+    {
+      "end" : 2898.8,
+      "start" : 2888.56,
+      "text" : "At a certain point, I was really legitimately thinking about just making it a basketball court inside because I figured we could save a lot of money if it was just hollow."
+    },
+    {
+      "end" : 2915.28,
+      "start" : 2898.8,
+      "text" : "It's been described to me from other people who are not you that your bookstore is an absurdly successful stop on the book tour circuit, that every author worth anything wants to come to your bookstore and do an event and does, in fact."
+    },
+    {
+      "end" : 2916.8,
+      "start" : 2915.28,
+      "text" : "How did that happen?"
+    },
+    {
+      "end" : 2918.8,
+      "start" : 2916.8,
+      "text" : "Well that's music to my ears."
+    },
+    {
+      "end" : 2923.28,
+      "start" : 2918.8,
+      "text" : "First of all, we created a really architecturally special place."
+    },
+    {
+      "end" : 2927.2000000000003,
+      "start" : 2923.28,
+      "text" : "As a touring author, I've seen hundreds of bookstores all over the world."
+    },
+    {
+      "end" : 2934.96,
+      "start" : 2927.2000000000003,
+      "text" : "So we really tried to capture the essence of what makes a bookstore feel homey and special and magical."
+    },
+    {
+      "end" : 2939.36,
+      "start" : 2934.96,
+      "text" : "We use lots of old materials to make it feel like it was really lived in."
+    },
+    {
+      "end" : 2943.92,
+      "start" : 2939.36,
+      "text" : "It doesn't hurt that we're on the route between Providence and Boston."
+    },
+    {
+      "end" : 2948.7200000000003,
+      "start" : 2943.92,
+      "text" : "If we're in the middle of Iowa or something like that, it would be a lot harder for authors to reach us."
+    },
+    {
+      "end" : 2950.7200000000003,
+      "start" : 2948.7200000000003,
+      "text" : "Is the bookstore profitable?"
+    },
+    {
+      "end" : 2952.8,
+      "start" : 2950.7200000000003,
+      "text" : "The bookstore is not profitable."
+    },
+    {
+      "end" : 2956.8,
+      "start" : 2952.8,
+      "text" : "We lose quite a bit of money each year in the six figures."
+    },
+    {
+      "end" : 2959.36,
+      "start" : 2956.8,
+      "text" : "There are lots of different reasons for that."
+    },
+    {
+      "end" : 2966.2400000000002,
+      "start" : 2959.36,
+      "text" : "We do try to pay fairly, but we also, you know, we give a lot of our employees healthcare, things like that."
+    },
+    {
+      "end" : 2976.96,
+      "start" : 2966.2400000000002,
+      "text" : "So you move to this town, you're raising your kids there, you've got your wimpy kid property growing and developing, and it sounds like a very happy, productive place for you to live."
+    },
+    {
+      "end" : 2982.2400000000002,
+      "start" : 2976.96,
+      "text" : "Then you decide to open a bookstore, which I don't know if you have a financial advisor."
+    },
+    {
+      "end" : 2984.56,
+      "start" : 2982.2400000000002,
+      "text" : "I'm guessing they would have advised you against that."
+    },
+    {
+      "end" : 2985.76,
+      "start" : 2984.56,
+      "text" : "Yes, I think so."
+    },
+    {
+      "end" : 2986.7200000000003,
+      "start" : 2985.76,
+      "text" : "But you did it."
+    },
+    {
+      "end" : 2987.28,
+      "start" : 2986.7200000000003,
+      "text" : "Yes."
+    },
+    {
+      "end" : 2990.88,
+      "start" : 2987.28,
+      "text" : "And you still have it, even though as you said you're los,ing quite a bit of money."
+    },
+    {
+      "end" : 2998.7200000000003,
+      "start" : 2990.88,
+      "text" : "And then you decide rather than pulling back what sounds to me like you're instead doubling down, if not more."
+    },
+    {
+      "end" : 3000.2400000000002,
+      "start" : 2998.7200000000003,
+      "text" : "So describe that."
+    },
+    {
+      "end" : 3000.7200000000003,
+      "start" : 3000.2400000000002,
+      "text" : "Yes."
+    },
+    {
+      "end" : 3006.64,
+      "start" : 3000.7200000000003,
+      "text" : "We are redeveloping the whole downtown center, which is about four city blocks."
+    },
+    {
+      "end" : 3012.48,
+      "start" : 3006.64,
+      "text" : "This is an ambitious plan, maybe a foolish plan, but also really an exciting plan."
+    },
+    {
+      "end" : 3015.76,
+      "start" : 3012.48,
+      "text" : "Downtown Plainville has been depressed for years."
+    },
+    {
+      "end" : 3018.4,
+      "start" : 3015.76,
+      "text" : "Tell me a little bit about the history of the town."
+    },
+    {
+      "end" : 3029.36,
+      "start" : 3018.4,
+      "text" : "Like a lot of the Northeast and New England, I'm guessing there was a kind of industrial or manufacturing or commercial heyday that is long in the rear view mirror."
+    },
+    {
+      "end" : 3033.68,
+      "start" : 3029.36,
+      "text" : "All these towns and small cities are trying to either hang on or reinvent themselves."
+    },
+    {
+      "end" : 3036,
+      "start" : 3033.68,
+      "text" : "Where does Plainville fall in that?"
+    },
+    {
+      "end" : 3039.84,
+      "start" : 3036,
+      "text" : "Plainville was built around a jewelry industry."
+    },
+    {
+      "end" : 3042.48,
+      "start" : 3039.84,
+      "text" : "One of the companies was called Whiting and Davis."
+    },
+    {
+      "end" : 3044.48,
+      "start" : 3042.48,
+      "text" : "It employed thousands of people."
+    },
+    {
+      "end" : 3053.6,
+      "start" : 3044.48,
+      "text" : "And what they're most known for was creating the chainmail dress that Tina Turner wore in uh Mad Max Thunderdome."
+    },
+    {
+      "end" : 3071.92,
+      "start" : 3053.6,
+      "text" : "But yeah, now the center of town is sort of hollowed out and in fact a factory building that stood there for at least eighty years, we're about to take it down in about two days and create something new."
+    },
+    {
+      "end" : 3076.48,
+      "start" : 3071.92,
+      "text" : "We decided to take a drive up from New York to see Plainville for ourselves."
+    },
+    {
+      "end" : 3078.32,
+      "start" : 3076.48,
+      "text" : "It took about three and a half hours."
+    },
+    {
+      "end" : 3084.56,
+      "start" : 3078.32,
+      "text" : "Getting close to town, we passed some outlet shops, some nice houses, and some not so nice houses."
+    },
+    {
+      "end" : 3090.64,
+      "start" : 3084.56,
+      "text" : "We keep going, and there on Route 1A, we instantly see that Jeff Kinney was right."
+    },
+    {
+      "end" : 3094.88,
+      "start" : 3090.64,
+      "text" : "Depressing downtown, really nice bookstore."
+    },
+    {
+      "end" : 3096.96,
+      "start" : 3094.88,
+      "text" : "The contrast is stark."
+    },
+    {
+      "end" : 3105.28,
+      "start" : 3096.96,
+      "text" : "I could imagine an author driving into town on a book tour thinking, I am going to kill the publicist who sent me here."
+    },
+    {
+      "end" : 3106.96,
+      "start" : 3105.28,
+      "text" : "There aren't a lot of buildings."
+    },
+    {
+      "end" : 3109.84,
+      "start" : 3106.96,
+      "text" : "Most of them are run down, tired."
+    },
+    {
+      "end" : 3112.96,
+      "start" : 3109.84,
+      "text" : "And then you come upon an unlikely story."
+    },
+    {
+      "end" : 3114.64,
+      "start" : 3112.96,
+      "text" : "I finally get the name."
+    },
+    {
+      "end" : 3122.4,
+      "start" : 3114.64,
+      "text" : "And it looks more like the ideal of a New England bookstore, like something that only Hollywood writers would dare imagine."
+    },
+    {
+      "end" : 3126.7200000000003,
+      "start" : 3122.4,
+      "text" : "The building is, like Kinney said, architecturally special."
+    },
+    {
+      "end" : 3136.2400000000002,
+      "start" : 3126.7200000000003,
+      "text" : "It's three stories, built in a style he calls federal wharf, muscular and proud, like something you'd see in a wealthy port town like Boston or Portland."
+    },
+    {
+      "end" : 3145.28,
+      "start" : 3136.2400000000002,
+      "text" : "It's late Saturday morning when we arrive, and inside the store is already crowded, all ages, busy cash registers, a humming cafe."
+    },
+    {
+      "end" : 3150.88,
+      "start" : 3145.28,
+      "text" : "The walls are hung with old wooden signs from old Plainville, but the tech is modern."
+    },
+    {
+      "end" : 3155.92,
+      "start" : 3150.88,
+      "text" : "Nice lighting, helpful employees everywhere, even nice bathrooms."
+    },
+    {
+      "end" : 3161.2000000000003,
+      "start" : 3155.92,
+      "text" : "If it weren't for the books, you'd be surprised it's a bookstore."
+    },
+    {
+      "end" : 3168.08,
+      "start" : 3161.2000000000003,
+      "text" : "On the day we visited, Kinney was hosting a presentation called Plainville Center, Past and Present."
+    },
+    {
+      "end" : 3174.4,
+      "start" : 3168.08,
+      "text" : "He wanted to show his renovation plan to the community."
+    },
+    {
+      "end" : 3176.2400000000002,
+      "start" : 3174.4,
+      "text" : "He was nervous beforehand."
+    },
+    {
+      "end" : 3195.6,
+      "start" : 3176.2400000000002,
+      "text" : "Kinney knows he is a very big fish in this small pond, and because he is an unusually considerate person, he's worried that his I asked him if he had had to buy out the other business operators in town and how complicated that was."
+    },
+    {
+      "end" : 3201.52,
+      "start" : 3195.6,
+      "text" : "We did buy out the other operators, but I wouldn't put it that way because it sounds like a little bit of a hostile action."
+    },
+    {
+      "end" : 3207.52,
+      "start" : 3201.52,
+      "text" : "We floated the balloon with each of these property holders and said, Hey, tell us if you're ever ready to move on."
+    },
+    {
+      "end" : 3211.84,
+      "start" : 3207.52,
+      "text" : "And in fact, the owner operators of the tool factory that was across the street."
+    },
+    {
+      "end" : 3214.4,
+      "start" : 3211.84,
+      "text" : "They were just ready to retire."
+    },
+    {
+      "end" : 3218.32,
+      "start" : 3214.4,
+      "text" : "So how many people here actually shopped at Fox Market?"
+    },
+    {
+      "end" : 3219.28,
+      "start" : 3218.32,
+      "text" : "Okay, great."
+    },
+    {
+      "end" : 3226.56,
+      "start" : 3219.28,
+      "text" : "As soon as people started walking in, I said, okay, everybody here knows much more about Claimdale's history than than I do."
+    },
+    {
+      "end" : 3230.08,
+      "start" : 3226.56,
+      "text" : "Um as it turned out, Kinney didn't need to worry."
+    },
+    {
+      "end" : 3233.84,
+      "start" : 3230.08,
+      "text" : "The presentation was well attended and it went over well too."
+    },
+    {
+      "end" : 3245.6800000000003,
+      "start" : 3233.84,
+      "text" : "Kinney showed some images of what a new Plainville Square would look like, and the town historian Christine Moore showed some images of the before times, the better times."
+    },
+    {
+      "end" : 3248.32,
+      "start" : 3245.6800000000003,
+      "text" : "The crowd was older, not surprisingly."
+    },
+    {
+      "end" : 3253.92,
+      "start" : 3248.32,
+      "text" : "There was very little dissent and a lot of reminiscing and trying to refresh the memory."
+    },
+    {
+      "end" : 3259.04,
+      "start" : 3253.92,
+      "text" : "Whose grandfather ran which hardware store and which factory closed down when?"
+    },
+    {
+      "end" : 3268.7200000000003,
+      "start" : 3259.04,
+      "text" : "And you remember that milkshake you could only get at such and such drugstore."
+    },
+    {
+      "end" : 3275.84,
+      "start" : 3268.7200000000003,
+      "text" : "Afterward, Kinney invites us outside to see what we'll be where if everything goes according to his plan."
+    },
+    {
+      "end" : 3285.36,
+      "start" : 3275.84,
+      "text" : "We are at the intersection of Bacon Street in 1A in Plainville, Massachusetts, and this is where Plainville Square is going to come to life."
+    },
+    {
+      "end" : 3299.36,
+      "start" : 3285.36,
+      "text" : "So far we have a bookstore and a parking lot, but this is going to become an anchor restaurant, a beer garden, hopefully an Airbnb, and maybe a few other buildings as well."
+    },
+    {
+      "end" : 3302.96,
+      "start" : 3299.36,
+      "text" : "But right now, you're here on a day when this is ash and dust."
+    },
+    {
+      "end" : 3306.16,
+      "start" : 3302.96,
+      "text" : "You know, we just took down seven buildings."
+    },
+    {
+      "end" : 3313.76,
+      "start" : 3306.16,
+      "text" : "So if you had been out of town for the weekend, you might feel like the town you grew up in has been flattened by a hurricane."
+    },
+    {
+      "end" : 3319.2000000000003,
+      "start" : 3313.76,
+      "text" : "But you know, this is the palette that we have to work with, and we're going to start building up."
+    },
+    {
+      "end" : 3320.7200000000003,
+      "start" : 3319.2000000000003,
+      "text" : "What's your budget?"
+    },
+    {
+      "end" : 3327.52,
+      "start" : 3320.7200000000003,
+      "text" : "Our budget we don't know yet, but I think that this is gonna cost somewhere between 17 million and about thirty-five million dollars.."
+    },
+    {
+      "end" : 3334.08,
+      "start" : 3327.52,
+      "text" : "Yeah Do you ever have conversations with friends and family about what you might have done instead with that money?"
+    },
+    {
+      "end" : 3336.48,
+      "start" : 3334.08,
+      "text" : "Uh no, I I don't often do that."
+    },
+    {
+      "end" : 3339.12,
+      "start" : 3336.48,
+      "text" : "I think people respect what we do with our money."
+    },
+    {
+      "end" : 3344.16,
+      "start" : 3339.12,
+      "text" : "We're doing something a little bit unusual, investing in the town and infrastructure of the town."
+    },
+    {
+      "end" : 3351.92,
+      "start" : 3344.16,
+      "text" : "The thing that really gets me excited is the idea of changing this town not for just our generation but for generations to come."
+    },
+    {
+      "end" : 3363.52,
+      "start" : 3351.92,
+      "text" : "Uh motivation is that famous Greek proverb that society doesn't become great until old men plant trees that they'll never enjoy the shade of."
+    },
+    {
+      "end" : 3369.04,
+      "start" : 3363.52,
+      "text" : "The only place in Plainville where, you can see the future is back at Jeff Kinney's bookstore."
+    },
+    {
+      "end" : 3371.36,
+      "start" : 3369.04,
+      "text" : "A crowd is already starting to gather."
+    },
+    {
+      "end" : 3382.56,
+      "start" : 3371.36,
+      "text" : "By evening, there will be hundreds of people lined up around the block for a visiting author."
+    },
+    {
+      "end" : 3386.96,
+      "start" : 3382.56,
+      "text" : "The author is a local hero, Jason Tatum of the Boston Celtics."
+    },
+    {
+      "end" : 3395.76,
+      "start" : 3386.96,
+      "text" : "He is one of the best, richest, and most famous athletes in the world, fresh off a Celtics Championship and an Olympic gold medal."
+    },
+    {
+      "end" : 3401.76,
+      "start" : 3395.76,
+      "text" : "He has come to the big bookstore in the little town of Plainville to talk about a children's book he just published."
+    },
+    {
+      "end" : 3404.08,
+      "start" : 3401.76,
+      "text" : "It's called Baby Dunks A lot."
+    },
+    {
+      "end" : 3409.52,
+      "start" : 3404.08,
+      "text" : "For authors of this magnitude, Jeff Kinney himself runs the QA."
+    },
+    {
+      "end" : 3412.56,
+      "start" : 3409.52,
+      "text" : "All right, Jason, thank you so much for coming to an unlikely story."
+    },
+    {
+      "end" : 3414.08,
+      "start" : 3412.56,
+      "text" : "We're so honored to have you here."
+    },
+    {
+      "end" : 3414.88,
+      "start" : 3414.08,
+      "text" : "It's really cool."
+    },
+    {
+      "end" : 3429.84,
+      "start" : 3414.88,
+      "text" : "So let's everybody give up one more time for Jason so you've done lots of different events before QA's and things like that but have you ever done something like this as an author?"
+    },
+    {
+      "end" : 3431.6,
+      "start" : 3429.84,
+      "text" : "This is a a first for me."
+    },
+    {
+      "end" : 3435.12,
+      "start" : 3431.6,
+      "text" : "I play basketball in front of thousand thousand people."
+    },
+    {
+      "end" : 3437.6800000000003,
+      "start" : 3435.12,
+      "text" : "But uh I'm honestly a little nervous to be up here."
+    },
+    {
+      "end" : 3441.04,
+      "start" : 3437.6800000000003,
+      "text" : "Wait a second, you also play basketball?"
+    },
+    {
+      "end" : 3442.16,
+      "start" : 3441.04,
+      "text" : "Did not know."
+    },
+    {
+      "end" : 3443.2000000000003,
+      "start" : 3442.16,
+      "text" : "All right, this is cool."
+    },
+    {
+      "end" : 3444.2400000000002,
+      "start" : 3443.2000000000003,
+      "text" : "We're off to a good start."
+    },
+    {
+      "end" : 3447.6,
+      "start" : 3444.2400000000002,
+      "text" : "But I was like, The QA was a big success."
+    },
+    {
+      "end" : 3456.88,
+      "start" : 3447.6,
+      "text" : "Tatum had pre-signed hundreds of books, so he didn't stick around long afterward, but the store stayed open late and the crowd kept shopping."
+    },
+    {
+      "end" : 3464.56,
+      "start" : 3456.88,
+      "text" : "We wanted to know what they thought of Jason Tatum, of the store, and of their other local hero, Jeff Kinney."
+    },
+    {
+      "end" : 3466.88,
+      "start" : 3464.56,
+      "text" : "We spoke with Benjamin McCucci."
+    },
+    {
+      "end" : 3469.76,
+      "start" : 3466.88,
+      "text" : "Jason Tatum is my basketball hero."
+    },
+    {
+      "end" : 3482.48,
+      "start" : 3469.76,
+      "text" : "I wanna be in the MBA and be just like him and you know getting to see him and Jeff Kenny at the same time and Jeff Kenny's my favorite author is just amazing for me."
+    },
+    {
+      "end" : 3484.8,
+      "start" : 3482.48,
+      "text" : "We heard from Izzy Gaudet."
+    },
+    {
+      "end" : 3490.88,
+      "start" : 3484.8,
+      "text" : "We just did a loop through the bottom and it's got so much, like from books to non-books."
+    },
+    {
+      "end" : 3492.8,
+      "start" : 3490.88,
+      "text" : "I'm definitely gonna have to come back."
+    },
+    {
+      "end" : 3502.7200000000003,
+      "start" : 3492.8,
+      "text" : "And here's Chris Alba growing up here, well in North Attleboro, this corner was always like it was a very dilapidated building, very old and it didn't look great."
+    },
+    {
+      "end" : 3506.08,
+      "start" : 3502.7200000000003,
+      "text" : "He's totally redone the way this entire area looks."
+    },
+    {
+      "end" : 3508.48,
+      "start" : 3506.08,
+      "text" : "It's really popular and it looks awesome."
+    },
+    {
+      "end" : 3510.8,
+      "start" : 3508.48,
+      "text" : "So I love it."
+    },
+    {
+      "end" : 3516.48,
+      "start" : 3510.8,
+      "text" : "I think that there is a chance for so much improvement."
+    },
+    {
+      "end" : 3520.4,
+      "start" : 3516.48,
+      "text" : "Like if we lived in Beverly Hills, we would have no interest in doing this kind of a thing."
+    },
+    {
+      "end" : 3524.88,
+      "start" : 3520.4,
+      "text" : "But Plainville can be changed in a really outsized way."
+    },
+    {
+      "end" : 3536.16,
+      "start" : 3524.88,
+      "text" : "I assume it felt like you were rowing against the tide by opening an independent bookstore in a relatively small place, but it does seem like independent bookstores are back on the rise."
+    },
+    {
+      "end" : 3540.64,
+      "start" : 3536.16,
+      "text" : "They've done fairly well through COVID and then post-COVID."
+    },
+    {
+      "end" : 3555.52,
+      "start" : 3540.64,
+      "text" : "It strikes me, and I may be wrong, that as the world continues to get bigger and faster and more consolidated and more digital and more connected, that there's a counter push for a return to the handmade and the homemade and for community."
+    },
+    {
+      "end" : 3557.28,
+      "start" : 3555.52,
+      "text" : "What's your view on that?"
+    },
+    {
+      "end" : 3558.2400000000002,
+      "start" : 3557.28,
+      "text" : "I think there is."
+    },
+    {
+      "end" : 3563.12,
+      "start" : 3558.2400000000002,
+      "text" : "I think that people are craving this feeling of connectedness."
+    },
+    {
+      "end" : 3568.32,
+      "start" : 3563.12,
+      "text" : "I'm really surprised that the effects of COVID have had such a long tail."
+    },
+    {
+      "end" : 3580.8,
+      "start" : 3568.32,
+      "text" : "I think we're seeing the effects of COVID on these 20-something year old people who, you know, didn't have a high school graduation, who now want to go into jobs where they work with peers physically in person."
+    },
+    {
+      "end" : 3592.8,
+      "start" : 3580.8,
+      "text" : "I think that a bookstore is part of that experience, but I also think that there's a practical aspect to it is that you really can't replicate the book buying experience online."
+    },
+    {
+      "end" : 3595.36,
+      "start" : 3592.8,
+      "text" : "It's similar to the record buying experience."
+    },
+    {
+      "end" : 3604.96,
+      "start" : 3595.36,
+      "text" : "We grew up in a time where you went to the record store and you flipped through the big albums and looked at the artwork and heard the music overhead, it was just better."
+    },
+    {
+      "end" : 3610.8,
+      "start" : 3604.96,
+      "text" : "Aaron Ross Powell So you know, Macy's is undergoing its own rehab or renovation at the moment."
+    },
+    {
+      "end" : 3620.4,
+      "start" : 3610.8,
+      "text" : "They're trying to figure out how this very old, old fashioned, still prominent brand can persevere and succeed in the twenty first century."
+    },
+    {
+      "end" : 3634.08,
+      "start" : 3620.4,
+      "text" : "And it strikes me as their challenges are similar to what you're trying to do now, which is build a place or create a space where people want to be with other people doing stuff that a lot of people stopped doing during our digital revolution."
+    },
+    {
+      "end" : 3641.6,
+      "start" : 3634.08,
+      "text" : "Do you see any connection between yourself and someone like them, some big corporate entities?"
+    },
+    {
+      "end" : 3654,
+      "start" : 3641.6,
+      "text" : "Aaron Powell One of the things that's been really surprising to me is that a major beer operator, and I can't name names right now because we haven't signed papers, but they're interested in being in downtown Plainville."
+    },
+    {
+      "end" : 3656.7200000000003,
+      "start" : 3654,
+      "text" : "And I said, Why are you interested in being here?"
+    },
+    {
+      "end" : 3661.2000000000003,
+      "start" : 3656.7200000000003,
+      "text" : "And they said, Because if you're here, you're the thing that people do."
+    },
+    {
+      "end" : 3667.76,
+      "start" : 3661.2000000000003,
+      "text" : "If we go into Boston or a big town like that, you're competing with 30 or 40 other restaurants."
+    },
+    {
+      "end" : 3673.04,
+      "start" : 3667.76,
+      "text" : "But in a place like this, you know, you've got a shot at becoming the show."
+    },
+    {
+      "end" : 3681.04,
+      "start" : 3673.04,
+      "text" : "So it's possible that if we set the table just so that we will get partners that we weren't expecting to get."
+    },
+    {
+      "end" : 3684.2400000000002,
+      "start" : 3681.04,
+      "text" : "And maybe Macy's could be a part of something like this."
+    },
+    {
+      "end" : 3695.6,
+      "start" : 3684.2400000000002,
+      "text" : "I'm very curious about what's going to happen because we're asking this really big question, which is if you invest in your downtown, can you change the fate of a town?"
+    },
+    {
+      "end" : 3698.56,
+      "start" : 3695.6,
+      "text" : "Can you change the way that people feel about the town?"
+    },
+    {
+      "end" : 3701.52,
+      "start" : 3698.56,
+      "text" : "Can you make the town a model for other towns?"
+    },
+    {
+      "end" : 3703.2000000000003,
+      "start" : 3701.52,
+      "text" : "I don't know the answer to that."
+    },
+    {
+      "end" : 3712,
+      "start" : 3703.2000000000003,
+      "text" : "And I think that's going to be my life's work is figuring out if this kind of thing can work."
+    },
+    {
+      "end" : 3718.96,
+      "start" : 3712,
+      "text" : "This made me think of the slogan that Macy's has adopted for its turnaround, a bold new chapter."
+    },
+    {
+      "end" : 3724.64,
+      "start" : 3718.96,
+      "text" : "That could have also been the name of Jeff Kinney's bookstore, but an unlikely story is better."
+    },
+    {
+      "end" : 3731.04,
+      "start" : 3724.64,
+      "text" : "In fact, an unlikely story might not be a bad slogan for Macy's, considering what it is up against."
+    },
+    {
+      "end" : 3742.7200000000003,
+      "start" : 3731.04,
+      "text" : "So I went back to CEO Tony Spring and I asked him what he thought of Jeff Kinney's new and improving Plainville and whether Macy's might consider opening up some kind of store there."
+    },
+    {
+      "end" : 3748.8,
+      "start" : 3742.7200000000003,
+      "text" : "We are always open to evaluating different real estate opportunities for retail."
+    },
+    {
+      "end" : 3750.56,
+      "start" : 3748.8,
+      "text" : "I applaud what he's doing."
+    },
+    {
+      "end" : 3753.84,
+      "start" : 3750.56,
+      "text" : "I want vibrant towns across this country."
+    },
+    {
+      "end" : 3757.28,
+      "start" : 3753.84,
+      "text" : "Springs still lives in Westchester County, where he grew up."
+    },
+    {
+      "end" : 3767.28,
+      "start" : 3757.28,
+      "text" : "Westchester has some of the nicest, leafiest suburbs in America, with small town main streets and high median incomes."
+    },
+    {
+      "end" : 3771.44,
+      "start" : 3767.28,
+      "text" : "We probably have more banks and restaurants than anything else, nail salons."
+    },
+    {
+      "end" : 3775.92,
+      "start" : 3771.44,
+      "text" : "I miss the candy store, I miss the bookstore, I miss the record store."
+    },
+    {
+      "end" : 3782.88,
+      "start" : 3775.92,
+      "text" : "Retail is that mix of variety that creates the reason for the stroll and the reason to spend locally."
+    },
+    {
+      "end" : 3786.08,
+      "start" : 3782.88,
+      "text" : "So we want Macy's to be a part of that experience."
+    },
+    {
+      "end" : 3787.92,
+      "start" : 3786.08,
+      "text" : "You know, I wish Jeff the best."
+    },
+    {
+      "end" : 3792.56,
+      "start" : 3787.92,
+      "text" : "I would say follow the adage from Cheers, make sure you know everybody's name."
+    },
+    {
+      "end" : 3800.7200000000003,
+      "start" : 3792.56,
+      "text" : "Those little touches make the absolute difference in where you choose to shop again."
+    },
+    {
+      "end" : 3806.8,
+      "start" : 3800.7200000000003,
+      "text" : "It's hard to predict the future of Macy's or the future of Plainville, Massachusetts."
+    },
+    {
+      "end" : 3814.64,
+      "start" : 3806.8,
+      "text" : "Tony Spring and Jeff Kinney are both investing a lot in their respective turnarounds, and it's natural to wish them well."
+    },
+    {
+      "end" : 3825.44,
+      "start" : 3814.64,
+      "text" : "On the other hand, people are fickle, markets are fickle, and generally speaking, you don't succeed in the future by trying to mimic the past."
+    },
+    {
+      "end" : 3829.2000000000003,
+      "start" : 3825.44,
+      "text" : "But for now, those concerns will have to wait."
+    },
+    {
+      "end" : 3839.84,
+      "start" : 3829.2000000000003,
+      "text" : "On Thanksgiving, Spring and Kinney both had a parade to get to."
+    },
+    {
+      "end" : 3841.6800000000003,
+      "start" : 3839.84,
+      "text" : "I'll be with my wife."
+    },
+    {
+      "end" : 3859.2000000000003,
+      "start" : 3841.6800000000003,
+      "text" : "I don't think my kids will come because they'll probably be cooking Thanksgiving and maybe a brother-in-law or sister in law or two and the Macy's leadership family and hopefully some customers and colleagues will sit in the grandstand like many others and will enjoy the parade as it hits thirty fourth Street."
+    },
+    {
+      "end" : 3866.8,
+      "start" : 3859.2000000000003,
+      "text" : "There's something really hypnotic about seeing one of those giant helium balloons move between the buildings."
+    },
+    {
+      "end" : 3870.2400000000002,
+      "start" : 3866.8,
+      "text" : "It's the outsizedness which is so exciting."
+    },
+    {
+      "end" : 3879.6,
+      "start" : 3870.2400000000002,
+      "text" : "It's really cool when you see a giant pop of smurf go by somebody's window or Clifford the big red dog, and you see the scale of the thing."
+    },
+    {
+      "end" : 3882.64,
+      "start" : 3879.6,
+      "text" : "What do you think the parade represents?"
+    },
+    {
+      "end" : 3897.6800000000003,
+      "start" : 3882.64,
+      "text" : "It's this weirdly old-fashioned traditional event that in a world of much more dazzling modes of entertainment draws 30 million people a year on TV, which is astonishing to me."
+    },
+    {
+      "end" : 3900.88,
+      "start" : 3897.6800000000003,
+      "text" : "So what does it feel like to be an essential component of that?"
+    },
+    {
+      "end" : 3902.96,
+      "start" : 3900.88,
+      "text" : "It feels like legitimacy to me."
+    },
+    {
+      "end" : 3910,
+      "start" : 3902.96,
+      "text" : "It feels like you're making a statement about your brand that you're not just wishing and hoping that you're a part of this."
+    },
+    {
+      "end" : 3914.7200000000003,
+      "start" : 3910,
+      "text" : "It's like a theory or a thesis that you're saying, I think we belong here."
+    },
+    {
+      "end" : 3919.36,
+      "start" : 3914.7200000000003,
+      "text" : "And then after a certain amount of time you say, you know what, we do belong here."
+    },
+    {
+      "end" : 3920.88,
+      "start" : 3919.36,
+      "text" : "This is right."
+    },
+    {
+      "end" : 3926.7200000000003,
+      "start" : 3920.88,
+      "text" : "Do you interact with other property creators or representatives at the parade?"
+    },
+    {
+      "end" : 3935.6800000000003,
+      "start" : 3926.7200000000003,
+      "text" : "Aaron Powell I've become friends with Jeannie Schultz, the widow of Charles Schultz, and it's a small club, so it's pretty cool to be a part of that club."
+    },
+    {
+      "end" : 3942.4,
+      "start" : 3935.6800000000003,
+      "text" : "Aaron Powell In a battle of balloons, would Greg or Snoopy win?"
+    },
+    {
+      "end" : 3945.76,
+      "start" : 3942.4,
+      "text" : "I'm gonna switch the question to be the Muppets."
+    },
+    {
+      "end" : 3952.1600000000003,
+      "start" : 3945.76,
+      "text" : "The first year diary of a Wimpy Kid, Greg Hefley was right behind Kermit the Frog."
+    },
+    {
+      "end" : 3954.1600000000003,
+      "start" : 3952.1600000000003,
+      "text" : "And you think he could have taken him?"
+    },
+    {
+      "end" : 3957.92,
+      "start" : 3954.1600000000003,
+      "text" : "Well, I was staring down the backside of a frog."
+    },
+    {
+      "end" : 3963.36,
+      "start" : 3957.92,
+      "text" : "And I said, that feels about right to me, you know."
+    },
+    {
+      "end" : 3967.92,
+      "start" : 3963.36,
+      "text" : "We asked Jeff Kinney for an update on his Plainville redevelopment project."
+    },
+    {
+      "end" : 3974.32,
+      "start" : 3967.92,
+      "text" : "He said the construction site we visited last year now has a built-out beer garden with plans to open in the spring."
+    },
+    {
+      "end" : 3976.88,
+      "start" : 3974.32,
+      "text" : "And how is Macy's itself doing?"
+    },
+    {
+      "end" : 3987.6,
+      "start" : 3976.88,
+      "text" : "Tony Spring closed 64 Macy's locations this year, and he announced an uptick in earnings in all three brands, Macy's Bloomingdale's and Blue Mercury."
+    },
+    {
+      "end" : 3998.2400000000002,
+      "start" : 3987.6,
+      "text" : "Mark Cohen says we will just have to wait to see if that turns out to be a dead cat bounce, as Wall Street skeptics like to call it, or maybe something more."
+    },
+    {
+      "end" : 4002.4,
+      "start" : 3998.2400000000002,
+      "text" : "My thanks to everyone who spoke with us for these episodes."
+    },
+    {
+      "end" : 4006.1600000000003,
+      "start" : 4002.4,
+      "text" : "Coming up next time on the show."
+    },
+    {
+      "end" : 4011.28,
+      "start" : 4006.1600000000003,
+      "text" : "Ultimately, his accounts were reduced to nothing and then he had nothing in the bank."
+    },
+    {
+      "end" : 4013.44,
+      "start" : 4011.28,
+      "text" : "Handel was a public composer."
+    },
+    {
+      "end" : 4015.76,
+      "start" : 4013.44,
+      "text" : "He wasn't composing really for the church."
+    },
+    {
+      "end" : 4026.32,
+      "start" : 4015.76,
+      "text" : "He was really performing."
+    },
+    {
+      "end" : 4033.12,
+      "start" : 4026.32,
+      "text" : "George Friedrich Handel's Messiah is iconic and hugely popular and beautiful."
+    },
+    {
+      "end" : 4035.04,
+      "start" : 4033.12,
+      "text" : "How did it come to exist?"
+    },
+    {
+      "end" : 4036.88,
+      "start" : 4035.04,
+      "text" : "And how has it lasted?"
+    },
+    {
+      "end" : 4038.56,
+      "start" : 4036.88,
+      "text" : "That's next time on the show."
+    },
+    {
+      "end" : 4046,
+      "start" : 4038.56,
+      "text" : "Until then, take care of yourself, and if you can, some.one else too Freeconomics radio is produced by Stitcher and Renbud Radio."
+    },
+    {
+      "end" : 4053.44,
+      "start" : 4046,
+      "text" : "You can find our entire archive on any podcast app, also at freeconomics.com, where we publish transcripts and show notes."
+    },
+    {
+      "end" : 4057.6800000000003,
+      "start" : 4053.44,
+      "text" : "This episode was produced by Alina Cullman and edited by Ellen Frankman."
+    },
+    {
+      "end" : 4061.52,
+      "start" : 4057.6800000000003,
+      "text" : "It was mixed by Jasmine Klinger with help from Eleanor Osborne."
+    },
+    {
+      "end" : 4066.08,
+      "start" : 4061.52,
+      "text" : "We had recording help from George Hicks and research help from Daniel Moritz Rabson."
+    },
+    {
+      "end" : 4078.8,
+      "start" : 4066.08,
+      "text" : "The Free Conomics Radio Network staff also includes Augusta Chapman, Dalvin Abuaji, Elsa Hernandez, Gabriel Roth, Greg Ripon, Elaria Montenecort, Jeremy Johnston, Morgan Levy, Sarah Lilly, Teo Jacobs, and Zach Lipinski."
+    },
+    {
+      "end" : 4080.32,
+      "start" : 4078.8,
+      "text" : "Our theme song is Mr."
+    },
+    {
+      "end" : 4088.2400000000002,
+      "start" : 4080.32,
+      "text" : "Fortune by the Hitchhikers and our composer is Luis Guerra."
+    },
+    {
+      "end" : 4098.88,
+      "start" : 4088.2400000000002,
+      "text" : "We used to be Slacksville for a time, I think unofficially, and so Plainville seemed like a giant upgrade."
+    },
+    {
+      "end" : 4106.56,
+      "start" : 4098.88,
+      "text" : "The Freeconomics Radio Network, the hidden side of everything."
+    },
+    {
+      "end" : 4111.36,
+      "start" : 4106.56,
+      "text" : "Stitcher."
+    },
+    {
+      "end" : 4117.12,
+      "start" : 4111.36,
+      "text" : "If you're an adult struggling with obesity, if you've struggled for years and years, you are not alone."
+    },
+    {
+      "end" : 4122.88,
+      "start" : 4117.12,
+      "text" : "But Zet Founder's epitide is changing what's possible when it comes to weight loss, along with diet and exercise."
+    },
+    {
+      "end" : 4131.12,
+      "start" : 4122.88,
+      "text" : "Proven to help lose weight and keep it off, Zeppound is a prescription medicine for adults with obesity or some adults with overweight who also have weight-related medical problems."
+    },
+    {
+      "end" : 4135.28,
+      "start" : 4131.12,
+      "text" : "Zep Found should be used with a reduced calorie diet and increased physical activity."
+    },
+    {
+      "end" : 4145.28,
+      "start" : 4135.28,
+      "text" : "Zetbound injection is approved as a 2.5, 5, 7.5, 10, 12.5, or 15 milligrams per 0.5 milliliters in single-dose pen or single-dose file."
+    },
+    {
+      "end" : 4150.08,
+      "start" : 4145.28,
+      "text" : "Don't use with other terzeptide containing products or any GLP1 receptor agonist medicines."
+    },
+    {
+      "end" : 4152.32,
+      "start" : 4150.08,
+      "text" : "It is not known if Zep bound can be used in children."
+    },
+    {
+      "end" : 4159.2,
+      "start" : 4152.32,
+      "text" : "Don't take Zepbound of allergic to it, or if you or someone in your family had medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2."
+    },
+    {
+      "end" : 4161.68,
+      "start" : 4159.2,
+      "text" : "Tell your doctor if you get a lump or swelling in your neck."
+    },
+    {
+      "end" : 4166,
+      "start" : 4161.68,
+      "text" : "Stop zebound and call your doctor if you have severe stomach pain or a serious allergic reaction."
+    },
+    {
+      "end" : 4169.36,
+      "start" : 4166,
+      "text" : "Severe side effects may include inflamed pancreas or gallbladder problems."
+    },
+    {
+      "end" : 4181.6,
+      "start" : 4169.36,
+      "text" : "Tell your doctor if you experience vision changes, depression, or suicidal thoughts before scheduled procedures with anesthesia, if you're nursing pregnant clan to be or taking birth control pills, taking zephan with a sulfonoluria or insulin may cause low blood sugar."
+    },
+    {
+      "end" : 4186.8,
+      "start" : 4181.6,
+      "text" : "Side effects include nausea, diarrhea, and vomiting, which can cause dehydration and worsen kidney problems."
+    },
+    {
+      "end" : 4189.12,
+      "start" : 4186.8,
+      "text" : "Discover the weight loss you could be bound for."
+    },
+    {
+      "end" : 4194.64,
+      "start" : 4189.12,
+      "text" : "Ask your healthcare provider about ZephBound or call 1-800-545-5979."
+    },
+    {
+      "end" : 4199.84,
+      "start" : 4194.64,
+      "text" : "Explore savings options regardless of insurance status at SaveOnZetBound.com."
+    },
+    {
+      "end" : 4202.4800000000005,
+      "start" : 4199.84,
+      "text" : "Terms and Conditions apply."
+    },
+    {
+      "end" : 4205.2,
+      "start" : 4202.4800000000005,
+      "text" : "Free Economics Radio is sponsored by Capital One."
+    },
+    {
+      "end" : 4213.68,
+      "start" : 4205.2,
+      "text" : "Nowadays, most people subscribe to everything: music, TV, even dog food, and it rocks until you have to manage it all, which is where Capital One comes in."
+    },
+    {
+      "end" : 4221.6,
+      "start" : 4213.68,
+      "text" : "Capital One credit card holders can easily track, block, or cancel recurring charges right from the Capital One mobile app at no additional cost."
+    },
+    {
+      "end" : 4225.2,
+      "start" : 4221.6,
+      "text" : "With one sign-in, you can manage all your subscriptions all in one place."
+    },
+    {
+      "end" : 4234.4800000000005,
+      "start" : 4225.2,
+      "text" : "Learn more at CapitalOne.com slash subscriptions terms and conditions apply."
+    },
+    {
+      "end" : 4238.88,
+      "start" : 4234.4800000000005,
+      "text" : "There's a new state-of-the-art center for advanced health care in Westchester."
+    },
+    {
+      "end" : 4242.4,
+      "start" : 4238.88,
+      "text" : "New York Presbyterian The One is now open."
+    },
+    {
+      "end" : 4258.08,
+      "start" : 4242.4,
+      "text" : "Where world-class doctors from Columbia provide expert adult and pediatric care for your family, a center where specialists in cardiology, neurosciences, cancer care, and more work together in one location, providing a seamless patient experience close to home."
+    },
+    {
+      "end" : 4260.4,
+      "start" : 4258.08,
+      "text" : "New York Presbyterian The One."
+    },
+    {
+      "end" : 4264.24,
+      "start" : 4260.4,
+      "text" : "Find a doctor now at nyp.org slash the one."
+    }
+  ],
+  "text" : "Freakonomics Radio is sponsored by LinkedIn Ads. When you want to reach the right professionals, use LinkedIn Ads, the platform that has the highest B2B rows of all online ad networks. Spend $250 on your first campaign on LinkedIn ads and get a free $250 credit for the next one. Just go to LinkedIn.com slash freeconomics. Terms and Conditions apply. Free economics radio is sponsored by Amica Insurance. They say if you want to go fast, go alone, but if you want to go far, go together. When you go with Amika, you're getting coverage from a mutual insurer that's built for their customers so they'll help look after what's important to you together. Auto, home, life, and more, Amika has you covered. At Amika, they'll help protect what matters most to you. Visit Amika.com and get a quote today. Hey there, Steven Dubner. Today we are playing the second and final part of our series on the economics of the Macy's Thanksgiving Parade, which we first published in 2024. We have updated facts and figures where needed. As always, thanks for listening. On Thanksgiving morning, roughly 30 million people watch at least some of the Macy's Thanksgiving Day parade on TV. For a lot of them, it wouldn't feel like Thanksgiving without the parade. In the first episode of the series, we spoke with the parade's executive producer, Will Coss. I asked him why it is so popular. His answer was pure tevia. I'd say tradition. Tradition, tradition, tradition is at the core. It's really about having this thing, this giant thing that shows up for you every Thanksgiving morning, and it's gonna be a little bit of spectacle, a little bit of kitsch, a little bit of art. It's become a moment in time for all of us to drive back to. But even our favorite traditions are not guaranteed their place in the future. The Macy's Department Store has been around for 167 years, and they've put on a parade for the past 101. In our previous episode, we tried to figure out how much money Macy spends to make the parade and how much they earn from sponsorships and TV ad sales. That was one part of this story that interested us. The other part is the future of retail itself, or at least the kind of retailing represented by Macy's. They like to call the parade their annual gift to the nation, which is a nice sentiment. But there are two things you should know about that. This gift is likely quite profitable for the giver, which is unusual. Also, the Macy's Parade may be one of the most valuable assets that Macy's still has. For most of the 20th century, Macy's was a retailing giant, but it's been in trouble for years, and if it were to disappear, the way that Sears and Montgomery Ward and Lord and Taylor and many other department stores have disappeared, the parade would likely disappear as well. How likely is it that Macy's disappears? That's one of the questions we're asking in this episode. As of this recording, Macy's is a publicly traded company with a market capitalization of around $6 billion. That's up from around $4 billion when we first published this series. But even $6 billion is still not very much. The target chain has a market cap of around $40 billion, Walmart $850 billion. Macy's real estate alone is thought to be worth more than its $6 billion market cap. You could take that to mean that Macy's simply is no longer very good at being a department store, or that department stores in general are doomed. Over the years on this show, we've interviewed quite a few CEOs and most of them were in thriving industries, biotech and software, energy and entertainment. We haven't talked much about the retail industry, but the fact is that a huge share of the global economy is a retail economy. So we thought this was a conversation worth having. Today on Freeconomics Radio, Macy's CEO Tony Spring makes his case. Just a physical store. We are a celebrator of life's moments. We also hear a dissenting voice. Until it's successful, keep your mouth shut, because you create expectations that may not be realistic. And we look at another retailer who is swimming against the tide. I drove by the bookstore and I could see in the window that people were really enjoying themselves. And I thought that's what I want. But is wanting something enough to make it happen. This is Freeconomics Radio, the podcast that explores the hidden side of everything with your host, Stephen Dubner. Tony Spring became CEO of Macy's in February of 2024, and he was appointed chairman of the board a couple months later. He is proud of his parade, but he recognizes that a parade. I want to be perceived as giving this gift to the city and to the nation. I also want to do a lot of business. I'll give you an adage that one of my former colleagues at Bloomingdale said to me. We want to win an Oscar, but also we want to win at the box office. So you grew up just north of New York City in Westchester County. I did. How much did you know about or go to Macy's as a kid? I certainly went to Macy's Herald Square and it felt like an adventure. Everything was overwhelming, the oversized ceilings, the uh environments, the storytelling. I love the those old wooden escalators. And they are still there, functioning to this day. But I actually fell in love with retail working in hospitality. I worked in a Burger King restaurant when I was in high school. I remember starting that job and feeling like working with the customer was the most exciting thing, hearing the cash register ring, being able to serve consumers. But that first week on the job, all I was doing was cleaning the parking lot. After about a week, the manager pulled me aside, he said, Do you know why you were working in the parking lot for a week? I said, I have no idea. He said, because that's the first impression that people have. And if the parking lot is dirty, they think the restaurant is dirty, they don't think the food is fresh. And that first impression mentality stuck with me all throughout my retail career. Spring went to Cornell University and studied in its world-famous hospitality school. There he met a recruiter from Bloomingdales, a beloved old luxury retailer in New York. City They were looking to place Cornell graduates in their executive training program. Maybe you remember the Seinfeld episode where Jerry's parents want him to quit comedy and join the Bloomingdales executive training program. Jerry wasn't interested, but Tony Spring was, and he loved it. This was in 1987. The company was well known for of the moment ideas. If you remember back in the uh late eighties there were these uh rocking flowers that came out of Asia that moved to music. Bloomingdales, they were the ones who sold the mood rings. They sold a piece of the Berlin Wall when it came down. Bloomingdales had by then long been part of a retail conglomerate called Federated. Macy's tried to acquire Federated, but failed. Soon after the Federal Federal Federated entered bankruptcy. A couple years later, Macy's entered bankruptcy, at which point Federated came out of bankruptcy and acquired Macy's. Got that? Federated became the biggest department store company in the US. But they also knew the power of the Macy's brand, so they changed the company name to Macy's Inc. and rebranded many of their other stores as Macy's. Although not Bloomingdale's, that brand was strong enough to stand on its own. In 2015, Macy's Inc. acquired the high-end beauty retailer Blue Mercury. So those are the three main brands that today make up Macy's Inc. Blue Mercury, Bloomingdale's, and Macy's. For now, Tony Springs says they will remain separate, but the mix will change as Macy's itself continues to shrink. Back in 2007, there were more than 800 Macy's stores. Now there are fewer than 500, and that number is due to fall again soon by quite a lot. So Tony Springs's job is to at least start with the state of the bleeding. He does have a positive attitude. Even though a lot of America needs to re-embrace Macy's, there's still plenty of people who are shopping at Macy's. 41 million active consumers, five different generations shopping at Macy's. Earlier this year, Tony, you faced a takeover challenge from the investment firm Arkhouse and the Asset Manager Brigade. And this was not the first time that activist investors have come after Macy's. The current market capitalization of your firm is only around 4.2 billion as we speak, and Ark House offered 6 billion, I believe. I've read that your real estate portfolio is worth between seven and eleven billion dollars. First of all, does that estimate seem about right to you or no? Uh I'll leave that to the real estate experts. All right. So what's your best case to shareholders for why they should be happy that you turned down that offer? Let's put it in context. It was a proposal, not an offer. It wasn't fully financed. After seven months of due diligence, the board unanimously voted to move on and focus on creating value for our shareholders. We remain open to a valuation that is higher than we are today, but the most important thing we can do as a leadership team is get to work on delivering a better experience for the consumer. Okay. So the market cap is real. That's you know verifiable. Let's call it $4.2 billion. Let's say that that real estate estimate between seven and eleven billion. Let's assume that that's accurate ish. What does it say that your market cap is roughly half of the real estate value? Now is the time to buy Macy's. Okay. Anything more on that though? Because you know, if I'm anyway, absolutely attractive stock to buy. The multiple is low. The company has made a commitment to turn itself around and deliver a better experience for the customer. It's a portfolio company, so it's not just Macy's. You get Bloomingdales and Blue Mercury. And you're at a moment in time where there's been so much disruption and retail, if I could get in at an inexpensive price, why wouldn't I wanna capitalize on the future of what this company is? And then by the way, the real estate has value. The company's also proven over the last seven years we've monetized over two and a half billion dollars worth of real estate. Monetized meaning sold? Sold. So to your point, how can the sum of the parts not be worth more? Look, I don't get to value the company. I can only comment on how the company's been valued. We are a retail company first. We enjoy and benefit from a great portfolio of real estate. And we'll continue to look at opportunities to both acquire assets as well as divest of assets. When we're talking about the value of Macy's Inc. real estate, we're really talking about the bigger Macy's and Bloomingdale's locations where the company owns the building. They rent most of their smaller stores as well as their Blue Mercury locations. Tony Spring is planning to close and sell around 150 of the bigger Macy stores. This should raise roughly half a billion dollars. At the same time, he plans to open some smaller Macy stores and to expand Bloomingdale's and Blue Mercury. Better in the future, you essentially have a healthy company that has you throw in the parade, the fireworks, the flower show, a relevancy gap that will be addressed by this leadership team. I'm glad you brought up the parade, Tony. No one we've spoken with at Macy's wants to talk about the economics of the parade. It's plainly expensive to produce, but based on a rough calculation of sponsorship dollars and TV ad sales, it's obviously quite valuable to you as well. Is it possible that the parade is the most valuable asset in the Macy's portfolio? I wouldn't say the most valuable, but I would say it's a valuable asset in the Macy's portfolio. The same way I would say Herald Square is a valuable asset in our portfolio. This is the advantage I think we have. We are not just a retailer. We are not just a physical store. We are a celebrator of life's moments. I use the ordinary to the extraordinary. The ordinary of I just need to run in and get a pair of socks. I just need to get a new pair of jeans. To the extraordinary, the parade, the fireworks, and how about your fiftieth birthday party? How about your hopefully your one marriage to the person you love? How about the birth of your son? I mean, these are the moments that I think Macy's can be and should be and is known for And here's someone who' nots quite as confident about the future of Macy's. Macy's has a hell of a challenge over the next few years to remain upright, let alone become successful as they once were. That is Mark Cohen. M A R K C O H E N Cohen recently retired as a professor and director of retail studies at Columbia Business School. Before that, he worked for thirty years in the retail business. His first job was at Abraham and Strauss, which no longer exists. His final job was as CEO of Sears Canada, which also no longer exists. I asked Cohen why the Columbia Business School even teaches retail studies. It's not the sexiest industry. It is arguably the largest. Retailing is 70 to 80 percent of the world's economy. There's been an enormous resurgence in interest in retailing, largely on the side of entrepreneurship. I would also point out that some of the world's largest individual fortunes have been made coming out of retail, obviously the Walton family. Then there's the ubiquitous Jeff Bezos experience at Amazon. Zara is a big one, Inditex, right? You bet. LVMH, a different kind of retail, I guess, but still retail. That's right. So some retailers are obviously thriving, and I've seen data suggesting that the e-commerce apocalypse just hasn't happened, that good brick and mortar has a future. But let's take a case study of failure. Let's talk about Sears. They were massive and now they're pretty much dead. You were a senior executive at Sears before its demise. I assume it wasn't your fault, but uh No, it wasn't my fault. The underlying issue in retailing is the customer has never disappeared. The customer has never gone away. The customer worldwide is hard-coated to want to shop for things, the only self-limiting issues being their economic capability and their proximity to a marketplace. At the turn of the twentieth century, customers in the United States were able to shop by coming downtown to shop in an emerging department store emporium. They also began to be able to shop in the early 20th century through catalogs like Sears Robux. If you couldn't find it in a Sears catalog, you didn't need it. You could buy everything from apparel to a you build it house. And they built out the facility with which to fulfill customer demand, literally throughout the United States. In the aftermath of World War II, millions of servicemen began to return from overseas and were eager on catching up on their lives and forming households. They began to migrate from urban centers and rural communities into newly formed suburbs. Dwight Eisenhower, the U.S. President in the 50s has a lot to do with the emergence of mid-20th century retail when he caused the interstate highway system to be built, having come out of World War II and witnessing the efficacy of the German Autobahn. His rationale was we have to have a way to move men and material north-south, east and west efficiently as opposed to across two-lane blacktop, which is what connected the United States at that time. Of course, we were never invaded. There was no reason for the Interstate Highway System to be an adjunct of the Defense Department. What it did was it spawned an enormous amount of migration into newly formed suburbs which were being built in close proximity to these interstate highways. So there was this emergence of suburban-based mall retailing, which hollowed out traditional downtown-based retailing in hundreds of U.S. cities. Sears was one of those department stores that migrated to the suburban malls. And they became the largest retailer in the world through the nineteen sixties. So what happened to Sears? Success in many cases brings complacency, hubris. Success seeds failure in many enterprises as they become larger and larger and become convinced that they are the last word. It was a very insular, inwardly. facing business In fact, when the two founders of Home Depot came to visit Sears Roebuck some years ago looking to get some financial support to launch their business, they basically got laughed out of the meeting by senior executives at Sears who looked at them as upstarts who had nothing to offer. Okay. That's Mark Cohen on the rise and fall of Sears. How about Macy's at its peak? Macy's was a brilliantly constructed general merchandise emporium servicing customers from low-middle income all the way up into near luxury. They were very good looking stores that were very powerfully merchandised, topical and current, and they did it very consistently. When you say it was powerfully merchandised. I've read you write before about what makes a good store good and a bad store bad. What are some things that Macy's did when they were very good? One of the most important things they did was they created a over large business consisting of housewares products by creating on the lower level of their Herald Square store something they called the seller. Good use of underground real estate too. Yes. So they took a whole variety of categories that were not, up until that point, viewed as particularly sexy or fashionable. They gave them a home, amped up their presentation, and built a business that customers would previously have seen as a place to buy utility products, you know, we need another frying pan to a place to buy an entire suite of cookware. And they did it brilliantly. It was putting the puzzle pieces together in a way that hadn't been done before. Which decades were the strongest decades for Macy's? Probably the 60s and 70s. How profitable was Macy's in its heyday? It was very profitable. I don't have a specific number to say, but they were viewed as as good as it gets. How fashionable were the clothes at Macy's during its heyday? Very fashionable. They were purveyors of the best brands of the day. And Macy's also invested in a whole portfolio of private label brands in both apparel and accessories and in home. So you're telling us all these things that Macy's did bas,ically what Macy's stood for for these several decades. When you look at Macy's today, what does it stand for? Well unfortunately, and in my view, Macy's doesn't stand for anything today. A consumer-facing enterprise, a brand, a store, a website, has to stand for something. It has to have a point of view that not only is recognized by customers as something they want to associate with, but differentiates itself from competition and is able to defend itself from competition. Aaron Powell So what'd they do wrong in these last several decades? Well Macy's began to prop up their lagging productivity and they began to play the last man standing game. You know, buy your competition and decide that's the secret to life, because now you don't have to compete with someone head to head. They also consolidated all of their regional banners under the heading Macy's. They did this in an attempt to retain their relevance, which was under tremendous pressure because of all of these specialty store chains, and then the big box off-mall retailers started to do an enormous amount of volume. And then of course there's Jeff Bezos Amazon. Aaron Powell I'm curious as Macy's business and reputation foundered for all these decades, what kind of brands would no longer sell to them because they don't want their stuff in a Macy's Aaron Powell. Well Macy's has historically abused their vendor community. I've used that word and some former CEOs at Federated Macy's have objected to it, but they can't object very loudly because they know damn well that I'm telling the truth. They have been historically tremendously one sided in their behavior. Many brands grudgingly supported their merchandise being sold at Macy's because they did not have an alternative. They now have alternatives. What specifically did Macy's do to their vendors that you're calling abusive? Paying late, not marketing well? What was it? They would be pounded for best price up front, and then there would be demands made for advertising and presentation allowances, demands made for gross margin guarantees, markdown protection, exclusives. In other words, if you sell us, you can't sell anybody else. Macy's played the We Want It All Our Way game for many, many years, and many brands basically, took a deep breath and did business with them because that was the only game in town for their merchandise. So if we were talking 10 years from now, do you think Macy still exists? Aaron Powell It's problematic. They have survived several attempts by activists to move into the stock to monetize their assets, which is principally their real estate, and they've all failed because frankly there's no there, even though you could argue that Harold Square and New York, Union Square and San Francisco are worth an enormous amount of money. Is there a buyer who's going to pay billions of dollars to put an office tower on top of Harold Square? Answer is no. So Mark, I am not a business analyst of any sort, but when I look at Macy's, I see a company whose market cap is a bit over four billion dollars with a real estate portfolio estimated at roughly double that. And when I look at their other assets, their Thanksgiving Day parade is massive, not only as marketing for the brand itself, but as a profit center. They're selling sponsorships for the balloons and floats and who knows what else, and they're getting a share of the ad sales for one of the biggest TV events of the year. So am I crazy, Mark, for thinking that the Macy's parade is maybe the single most valuable asset that Macy still has? Well, you're not crazy, but you have to reflect on the fact that for anything to have value, there has to be someone who holds the value and someone who has an interest in possessing the value. Would the Super Bowl ad madness have any firmament if there was no Super Bowl supporting that three-hour window? So the parade has been forever attached to Macy's as a name, and over the years it became a commercial issue unto itself. They don't tell you how much it costs to put on the parade. Presented during the parade that doesn't have a price tag attached. But of course, it doesn't translate these days into footsteps doing business inside the store. After the break, Tony Spring thinks he knows how to get the footsteps inside the store. I'm Steven Dubner. This is Freekonomics Radio. We'll be right back. Freakonomics Radio is sponsored by Dell, introducing your new Dell PC powered by the Intel Core Ultra Processor. It helps you handle a lot even when your holiday to-do list gets to be a lot, because it's built with ally- bdaattery plus powerful AI features that help you do it all with ease from editing images to drafting emails to summarizing large documents to multitasking. So you can organize your holiday shopping and make custom holiday decor and search for great holiday deals and respond to holiday requests and customer questions and customers requesting custom things and plan the perfect holiday dinner for vegans, vegetarians, pescatarians, and Uncle Mike's carnivore diet. Luckily, you can get a PC that helps you do it all faster so you can get it all done. That's the power of a Dell PC with Intel inside, backed by Dell's Price Match. guarantee Get yours at the best price of the year by visiting Dell.com\/slash holiday. Terms and conditions apply. See Dell.com for details. Free economics radio is sponsored by FedEx, the new power move. You know those people who still rely on old school business power moves, like showing up late to meetings because they're so busy, or wearing a big shiny gold watch and making sure everyone notices. Maybe it's the person who takes long dramatic pauses every time they speak because they're so profound. But let's be honest, all those old school power moves won't keep your supply chain moving smoothly. The real power move? Using data insights from FedEx to move your business forward, like using predictive analytics to manage your entire supply chain, or calling out logistics problems before they arise, and sitting at the forefront of business intelligence. That's how FedEx helps modern businesses stay ahead, anticipating change, rerouting around challenges and keeping everything running smoothly. FedEx, the new power move. Visit FedEx.com slash new power move to learn more.ree economics radio is sponsored by Capital One. Banking with Capital One helps you keep more money in your wallet with no fees or minimums on checking accounts and no overdraft fees. Just ask the Capital One bank guy. It's pretty much all he talks about in a good way. He'd also tell you that this podcast is his favorite podcast. Thanks, Capital One Bank Guy. What's in your wallet? Terms apply. See Capital One dot com slash bank Capital One N A member F D I C We've been talking about the fate of Macy's with Mark Cohen, a former retail executive and business school professor, and Tony Spring, the CEO of Macy's. Spring spent nine years as CEO of Bloomingdales, a more upscale store within the Macy's portfolio. And in early 2024, he took over the mothership. Spring knows, as does the entire retail industry, that Macy's Inc. is not in great shape, so he has been asked to engineer tur anaround. He came up with a strategy called a bold new chapter. The strategy is made up of really strengthening the Macy's brand, and that includes divesting about 150 stores that are no longer. relevant When Springs says divesting, that means shutting down the failing stores and selling the real estate. What else is in the bold new chapter strategy? It's investing into the improvements within our merchandise assortment. We've revamped the entire private brand portfolio, exiting brands that were no longer relevant, introducing new brands that resonate with the multi-generations of consumers. I asked for an example of this. Right now you have this trend on uh young kids, boys wearing perfume, you know, cologne. They've seen it on social media, on TikTok. And so we got to lean into that. We've got to have the best assortment of perfumes and colognes for kids so that they think of Macy's as being a great destination to buy their fragrances. Okay. What else is Tony Spring working on? Improving the condition of our stores, more staffing, better visual presentation, embracing different store formats. And then at the Bloomingdales and Blue Mercury brands, it's leaning into the affluent and luxury consumer. And surrounding it is this desire to take cost that is not visible to the consumer through automation, through reducing complexity out of the business, so that we can give the customer just a better experience no matter how they shop. So here's something you've said in the past. I love stores. I'm a store guy, but bad stores are bad stores. You just told me that you are planning to close a lot of stores that are no longer relevant. What makes a bad store bad? What makes an irrelevant store irrelevant? Yeah, the last store open in the mall. The store was built in nineteen sixty five for a different time period. The store has a roof that's about thirty seven years old on a thirty year lifeline. The elevator doesn't work, the escalator breaks five times a year. The brands don't want to sell us, so it's made up of private brands and brands that don't care about their points of distribution. I'm looking at something here, Tony. It's a consumer survey with twelve hundred respondents, it shows that awareness of Macy's is incredibly high, 88%. But then when you look at the other categories, Macy's popularity, usage, loyalty, Macy's buzz, those are all in the 20 to 30 percent range. That is an unbelievable gap. So what makes you think you can recover from that? I'm a big believer in self-awareness and ambition. You need to know who you are before you can get to what you want to be. We spent uh greater part of 18 months basically saying we're not good at this, we need to work on that, this needs to be stronger. We did our own version of that same survey which said high level of awareness, not a strong enough level of conversion. The issue remains with us. How well do we execute our strategy? How fast do we move? How well do we communicate those changes? Aaron Powell So there is a practice among some businesses called a pre-mortem. I don't know if you've ever heard of this. I am very fond of it. So you know, you imagine that things have failed and then before it has a chance to fail, you sit and think, well, why would it have failed? And let's fix that now. So if you were to pre-mortem Macy's Inc. right now, what do you think are the biggest existential threats to its continued longevity. Is it online shopping? Is it discount retailers? Is it maybe people just deciding to buy less stuff, et cetera, et cetera? Aaron Powell I think disintermediation, the brands being able to go directly to the consumer, the brands deciding that you are not as important a point of distribution. And this comes down to being, you know, a people business. The people that are attentive, return your phone calls, texts or emails, pay you on time, treat your brand with respect. Those are the people that are going to continue to sell you or want to sell you in the future. Name a brand partner or two that's pulled out of Macy's over the last five or ten years. Nike would be one. They took an eighteen month break and then decided that they needed more points of distribution and we've built a nice business back together again. Name a couple brands that you'd like to have that you don't have yet. We would love to have Tory Birch at Macy's. So what is that kind of conversation like with a brand like let's say Tory Birch of trying to convert them or include them in Macy's since they're already in Bloomingdale's. Yeah, you have to talk about again the benefit of a multi-brand retail environment where you're talking to 41 million active customers. Based on the scale of Macy's, you have more affluent customers shopping at Macy's than shop at Bloomingdale's. You have a more diverse customer shopping at Macy's, Bloomingdale's. a great business I love that brand having grown up there, but that's a slice of America. Macy's is America. And if you really want to understand how fashion works across the country, you need a partner like Macy's that can help give you that feedback. Describe for me what a good Macy's store looks like in the near future. What specifically is changing and improving? You hopefully will go to Macy's and find a wide variety of assortment, but not the endless aisle you've been hearing about. I don't want to wander down someplace that never ends. I want to go to the best aisle where I have actual variety, not redundancy. So you're going to show me a handful of items in a category 'cause I want to buy a polo shirt and you're gonna give me good, better, best. You're gonna be in stock in my size. I'm gonna be greeted by somebody who's pleasant. I'm gonna be rung up efficiently and effectively. I also might go and meet my uh boyfriend's, girlfriends, whoever it is, and meander through the store and actually discover some things that I haven't heard of or seen before. I might stop into the cafe or to the restaurant or Starbucks and grab a latte, and I'll remember the experience as being Macy's is there for me when I need them. We spoke with one retail analyst who, by the way, is a fan of yours. He thinks the turnaround is really promising. He said that your parade, quote generates magic, but that's not always the experience of shopping at Macy's. He said you guys run this fantastic parade, but you can't put any magic into your shop floor. I'm curious to hear your response to that. And I'm also curious to know whether you think about integrating the parade designers into your customer experience team somehow. Yeah, I think uh challenge given, challenge taken. How do I recreate a once-a-year phenomenon that has let's just say a few dollars thrown at it to make it extremely magical. I think it should inspire us to step up and to deliver something far better. But I think we also can't hold the mirror on the parade to the store experience and say that's what every day is going to be. Given that you want to grow your luxury business and given your Bloomingdale's background, I'm curious if you're thinking about trying to use the parade to move things in that direction. Should we look for a Tory Birch float, for instance, or anything in that direction? If Tory Birch had something to say in the parade, I'd love for them to be in the parade. You will see more integration in the future of the things that we do in the parade to the things that we do in the store. Think about it this way. Black Friday is the kickoff to the final parts of the holiday season and we own America in conveying that message. Thanksgiving is a family celebration that begins not on the day of Thanksgiving, begins several weeks before. Do you have enough chairs? Do you have enough plates? How do I keep people active? Do I have games for them to play? So we have this opportunity to be a part of America's Day in a very meaningful way before and the kickoff to America's celebration of the gifting time of the year with uh twenty-eight and a half or twenty-nine million people watching by the way Macy's does already sell some Tory Birch merchandise, like watches, fragrances, and sunglasses, but not the more expensive items like bags or shoes, which they would like to sell. So we just heard Tony Springs' plan for a bold new chapter. Will it work? I have no idea. The bad news coming from Macy's doesn't seem to stop. Last November, Macy's revealed that an employee had intentionally hidden around $150 million in delivery expenses over the previous few years, this news forced a delay of the company's quarterly earnings report. That is bad. While the retail industry may not be as technically complicated as a lot of the industries we're used to talking about on this show, like healthcare or artificial intelligence, it is plenty complicated in its own way. This makes it hard for any outsider to predict whether Tony Spring will be successful. So we went back to an insider, Mark Cohen, the former retail executive and business school professor, to ask what he thinks. Trevor Burrus, Jr.: Well, I'm generally speaking hostile to sloganeering. And Macy's has been guilty of sloganeering for well over a decade. They were invested in the magic of Macy's, which basically there was no magic to Macy's. The most recent CEO was all invested in something called a Polaris strategy, which, not to be crude, was more bullshit than real. There's no there there behind what Tony Spring has been able or willing to describe. His general description of improvements in terms of making the assortments more relevant to consumers, that's kind of like motherhood and apple pie. I don't decry him for saying those words, but at the end of the day, I'm from the school that says, come up with the idea, put the idea in place, measure its success v failure, and once it's successful, start talking about it. But until it's successful, keep your mouth shut. Because you create expectations that may not be realistic. Aaron Powell When's the last time you were in a Macy's? A few months ago. I passed through Harold Square whenever I'm in Midtown, and some time before that I hit a bunch of their suburban branches in Metro New York. When I'm asked to comment about someone's success or failure, I try to be at least up to date in the observations that I make. Trevor Burrus, Jr.aron Powell So what did those Macy stories look like to you? They look terrible. I'm told that Tony Spring has begun a process of cleaning up their act. I don't know him, but I know him by way of background. He did a marvelous job of ensuring that Bloomingdale's was a pristine, up to date, well presented store. And so I'm told there has begun a process of improvement that's visible. This literally means turning the stores into something far more clean, neat, and friendly than they had become under prior regimes. Aaron Powell Okay. So the clean, neat and friendly, I get, but you're also talking about the lack of good assortment, the lack of stuff that people want. What do they need to do there? Well, you have to start with clean, neat and friendly, and then you have to fill the store with merchandise customers really want to buy. How hard can that be to figure out? That is the codex of retailing. That is enormously difficult to do. It takes years and years and years to build a team of people who can create assortments, which by the way, have to be created, recreated, represented almost every day, especially today when the customers' loyalty can't be counted upon. If you please a customer today, they may very well come back. If you piss them off today, they may never come back. After the break, we talked to a very different kind of retailer who seems to have the loyal customer thing all worked out. It's gorgeous inside. The building itself is so cool. I hate change, but I think some of the stuff he's doing is good. I'm Steven Dubner. This is Freakonomics Radio. We'll be right back. Freakonomics Radio is sponsored by Range Rover Sport, a vehicle that blends power, poise, and performance. With a distinctly British design, the Range Rover Sport is built to take on roads anywhere. Free from unnecessary details, its raw power and agility shine. Combining a dynamic sporting personality with elegance and agility, it delivers an instinctive drive. Its assertive stance hints at an equally refined driving performance. Defining true modern luxury, the Range Rover sport features the latest innovations in comfort and convenience. The cabin air purification system, alongside the active noise cancellation creates a new level of quality, comfort, and control. Terrain Response 2 offers seven terrain modes to choose from, fine-tuning the vehicle for any challenging roads ahead. A force inside and out, the Range Rover Sport is available with a choice of powerful engines, including a plug-in hybrid with an estimated range of fifty-three miles. Build your Range Rover Sport at Range Rover.com slash US slash sport. Freeconomics radio is sponsored by FedEx, the new power move. You know those people who still rely on old school business power moves like showing up late to meetings because they're so busy or wearing a big shiny gold watch and making sure everyone notices. Maybe it's the person who takes long dramatic pauses every time they speak because they're so profound? But let's be honest: all those old school power moves won't keep your supply chain moving smoothly. The real power move? Using data insights from FedEx to move your business forward, like using predictive analytics to manage your entire supply chain, or calling out logistics problems before they arise, and sitting at the forefront of business intelligence. That's how FedEx helps modern businesses stay ahead, anticipating change, rerouting around challenges, and keeping everything running smoothly. FedEx, the new power move. Visit FedEx.com slash new power move to learn more. There's a new state-of-the-art center for advanced healthcare in Westchester. New York Presbyterian The One is now open. Where world-class doctors from Columbia provide expert adult and pediatric care for your family. A center where specialists in cardiology, neurosciences, cancer care, and more work together in one location, providing a seamless patient experience close to home. New York Presbyterian The One. Find a doctor now at nyp.org slash the one. How do you design a store where people are dying to shop. Macy's is trying to figure that out, again, having been largely unsuccessful for the past few decades after building one of the biggest department store chains in history. At the very least, Macy's does know how to throw a killer parade. In part one of this series, we heard from Jeff Kinney, author of the Diary of a Wimpy Kid books, which have sold more than 300 million copies. For the past 16 years, Kinney has had a giant balloon in the Macy's Parade, a balloon of Greg Hefley, the wimpy kid himself. Jeff Kinney lives with his family in Plainville, Massachusetts, and he has built a mid-sized media empire around WimpyKid. Spin-off book series, films, a musical, board games, quite a bit more. And he's got one more project that is related-ish, but not quite. We have a bookstore in the center of town which is called An Unlikely Story, which has been in business for about nine years. If I were to come visit your bookstore, how much wimpy kid do I see there? You'd see very little wimpy Kid at the bookstore. We've got a statue of Greg on the main floor, but mostly it's a general bookstore. You've probably never heard of Plainville. Only about 10,000 people live there. I moved up to Massachusetts in 1995. My wife and I picked Plainville by creating a Venn diagram of three locations, Boston Logan Airport, TF Green Airport in Providence, and then my wife's parents live in Worcester. And right at the intersection of those three places is this little town called Plainville? Plainville is about an hour's drive to Boston, half an hour to Providence, Rhode Island, and 15 minutes to Foxborough, Mass, where the New England Patriots of the NFL play their home games. So what led Jeff Kinney to build this big bookstore here? We started creating it about twelve years ago on the site of an old market called Fox Market, which had been built in I think eighteen fifty three before Lincoln became president. It was a beloved market that everyone had at the center of their lives for decades and decades. It had been abandoned for about 17 years. So once Wimpy Kid took off, we bought the building to the building. Why did you want to do that? You already had a very going concern with your property that had all these other tentacles. Why did you want to commit to a big physical property like a bookstore. You were probably doing this at the time when independent bookstores were closing at the rate of I don't know, one a week or something. So what gave you this impulse? Aaron Powell A lot of people were really embarrassed by the derelict We just wanted to build a building that the town could feel proud of. So my goal was just to create a nice building and put the word Plainville on the side. We didn't give any thought to what was going to be inside. At a certain point, I was really legitimately thinking about just making it a basketball court inside because I figured we could save a lot of money if it was just hollow. It's been described to me from other people who are not you that your bookstore is an absurdly successful stop on the book tour circuit, that every author worth anything wants to come to your bookstore and do an event and does, in fact. How did that happen? Well that's music to my ears. First of all, we created a really architecturally special place. As a touring author, I've seen hundreds of bookstores all over the world. So we really tried to capture the essence of what makes a bookstore feel homey and special and magical. We use lots of old materials to make it feel like it was really lived in. It doesn't hurt that we're on the route between Providence and Boston. If we're in the middle of Iowa or something like that, it would be a lot harder for authors to reach us. Is the bookstore profitable? The bookstore is not profitable. We lose quite a bit of money each year in the six figures. There are lots of different reasons for that. We do try to pay fairly, but we also, you know, we give a lot of our employees healthcare, things like that. So you move to this town, you're raising your kids there, you've got your wimpy kid property growing and developing, and it sounds like a very happy, productive place for you to live. Then you decide to open a bookstore, which I don't know if you have a financial advisor. I'm guessing they would have advised you against that. Yes, I think so. But you did it. Yes. And you still have it, even though as you said you're los,ing quite a bit of money. And then you decide rather than pulling back what sounds to me like you're instead doubling down, if not more. So describe that. Yes. We are redeveloping the whole downtown center, which is about four city blocks. This is an ambitious plan, maybe a foolish plan, but also really an exciting plan. Downtown Plainville has been depressed for years. Tell me a little bit about the history of the town. Like a lot of the Northeast and New England, I'm guessing there was a kind of industrial or manufacturing or commercial heyday that is long in the rear view mirror. All these towns and small cities are trying to either hang on or reinvent themselves. Where does Plainville fall in that? Plainville was built around a jewelry industry. One of the companies was called Whiting and Davis. It employed thousands of people. And what they're most known for was creating the chainmail dress that Tina Turner wore in uh Mad Max Thunderdome. But yeah, now the center of town is sort of hollowed out and in fact a factory building that stood there for at least eighty years, we're about to take it down in about two days and create something new. We decided to take a drive up from New York to see Plainville for ourselves. It took about three and a half hours. Getting close to town, we passed some outlet shops, some nice houses, and some not so nice houses. We keep going, and there on Route 1A, we instantly see that Jeff Kinney was right. Depressing downtown, really nice bookstore. The contrast is stark. I could imagine an author driving into town on a book tour thinking, I am going to kill the publicist who sent me here. There aren't a lot of buildings. Most of them are run down, tired. And then you come upon an unlikely story. I finally get the name. And it looks more like the ideal of a New England bookstore, like something that only Hollywood writers would dare imagine. The building is, like Kinney said, architecturally special. It's three stories, built in a style he calls federal wharf, muscular and proud, like something you'd see in a wealthy port town like Boston or Portland. It's late Saturday morning when we arrive, and inside the store is already crowded, all ages, busy cash registers, a humming cafe. The walls are hung with old wooden signs from old Plainville, but the tech is modern. Nice lighting, helpful employees everywhere, even nice bathrooms. If it weren't for the books, you'd be surprised it's a bookstore. On the day we visited, Kinney was hosting a presentation called Plainville Center, Past and Present. He wanted to show his renovation plan to the community. He was nervous beforehand. Kinney knows he is a very big fish in this small pond, and because he is an unusually considerate person, he's worried that his I asked him if he had had to buy out the other business operators in town and how complicated that was. We did buy out the other operators, but I wouldn't put it that way because it sounds like a little bit of a hostile action. We floated the balloon with each of these property holders and said, Hey, tell us if you're ever ready to move on. And in fact, the owner operators of the tool factory that was across the street. They were just ready to retire. So how many people here actually shopped at Fox Market? Okay, great. As soon as people started walking in, I said, okay, everybody here knows much more about Claimdale's history than than I do. Um as it turned out, Kinney didn't need to worry. The presentation was well attended and it went over well too. Kinney showed some images of what a new Plainville Square would look like, and the town historian Christine Moore showed some images of the before times, the better times. The crowd was older, not surprisingly. There was very little dissent and a lot of reminiscing and trying to refresh the memory. Whose grandfather ran which hardware store and which factory closed down when? And you remember that milkshake you could only get at such and such drugstore. Afterward, Kinney invites us outside to see what we'll be where if everything goes according to his plan. We are at the intersection of Bacon Street in 1A in Plainville, Massachusetts, and this is where Plainville Square is going to come to life. So far we have a bookstore and a parking lot, but this is going to become an anchor restaurant, a beer garden, hopefully an Airbnb, and maybe a few other buildings as well. But right now, you're here on a day when this is ash and dust. You know, we just took down seven buildings. So if you had been out of town for the weekend, you might feel like the town you grew up in has been flattened by a hurricane. But you know, this is the palette that we have to work with, and we're going to start building up. What's your budget? Our budget we don't know yet, but I think that this is gonna cost somewhere between 17 million and about thirty-five million dollars.. Yeah Do you ever have conversations with friends and family about what you might have done instead with that money? Uh no, I I don't often do that. I think people respect what we do with our money. We're doing something a little bit unusual, investing in the town and infrastructure of the town. The thing that really gets me excited is the idea of changing this town not for just our generation but for generations to come. Uh motivation is that famous Greek proverb that society doesn't become great until old men plant trees that they'll never enjoy the shade of. The only place in Plainville where, you can see the future is back at Jeff Kinney's bookstore. A crowd is already starting to gather. By evening, there will be hundreds of people lined up around the block for a visiting author. The author is a local hero, Jason Tatum of the Boston Celtics. He is one of the best, richest, and most famous athletes in the world, fresh off a Celtics Championship and an Olympic gold medal. He has come to the big bookstore in the little town of Plainville to talk about a children's book he just published. It's called Baby Dunks A lot. For authors of this magnitude, Jeff Kinney himself runs the QA. All right, Jason, thank you so much for coming to an unlikely story. We're so honored to have you here. It's really cool. So let's everybody give up one more time for Jason so you've done lots of different events before QA's and things like that but have you ever done something like this as an author? This is a a first for me. I play basketball in front of thousand thousand people. But uh I'm honestly a little nervous to be up here. Wait a second, you also play basketball? Did not know. All right, this is cool. We're off to a good start. But I was like, The QA was a big success. Tatum had pre-signed hundreds of books, so he didn't stick around long afterward, but the store stayed open late and the crowd kept shopping. We wanted to know what they thought of Jason Tatum, of the store, and of their other local hero, Jeff Kinney. We spoke with Benjamin McCucci. Jason Tatum is my basketball hero. I wanna be in the MBA and be just like him and you know getting to see him and Jeff Kenny at the same time and Jeff Kenny's my favorite author is just amazing for me. We heard from Izzy Gaudet. We just did a loop through the bottom and it's got so much, like from books to non-books. I'm definitely gonna have to come back. And here's Chris Alba growing up here, well in North Attleboro, this corner was always like it was a very dilapidated building, very old and it didn't look great. He's totally redone the way this entire area looks. It's really popular and it looks awesome. So I love it. I think that there is a chance for so much improvement. Like if we lived in Beverly Hills, we would have no interest in doing this kind of a thing. But Plainville can be changed in a really outsized way. I assume it felt like you were rowing against the tide by opening an independent bookstore in a relatively small place, but it does seem like independent bookstores are back on the rise. They've done fairly well through COVID and then post-COVID. It strikes me, and I may be wrong, that as the world continues to get bigger and faster and more consolidated and more digital and more connected, that there's a counter push for a return to the handmade and the homemade and for community. What's your view on that? I think there is. I think that people are craving this feeling of connectedness. I'm really surprised that the effects of COVID have had such a long tail. I think we're seeing the effects of COVID on these 20-something year old people who, you know, didn't have a high school graduation, who now want to go into jobs where they work with peers physically in person. I think that a bookstore is part of that experience, but I also think that there's a practical aspect to it is that you really can't replicate the book buying experience online. It's similar to the record buying experience. We grew up in a time where you went to the record store and you flipped through the big albums and looked at the artwork and heard the music overhead, it was just better. Aaron Ross Powell So you know, Macy's is undergoing its own rehab or renovation at the moment. They're trying to figure out how this very old, old fashioned, still prominent brand can persevere and succeed in the twenty first century. And it strikes me as their challenges are similar to what you're trying to do now, which is build a place or create a space where people want to be with other people doing stuff that a lot of people stopped doing during our digital revolution. Do you see any connection between yourself and someone like them, some big corporate entities? Aaron Powell One of the things that's been really surprising to me is that a major beer operator, and I can't name names right now because we haven't signed papers, but they're interested in being in downtown Plainville. And I said, Why are you interested in being here? And they said, Because if you're here, you're the thing that people do. If we go into Boston or a big town like that, you're competing with 30 or 40 other restaurants. But in a place like this, you know, you've got a shot at becoming the show. So it's possible that if we set the table just so that we will get partners that we weren't expecting to get. And maybe Macy's could be a part of something like this. I'm very curious about what's going to happen because we're asking this really big question, which is if you invest in your downtown, can you change the fate of a town? Can you change the way that people feel about the town? Can you make the town a model for other towns? I don't know the answer to that. And I think that's going to be my life's work is figuring out if this kind of thing can work. This made me think of the slogan that Macy's has adopted for its turnaround, a bold new chapter. That could have also been the name of Jeff Kinney's bookstore, but an unlikely story is better. In fact, an unlikely story might not be a bad slogan for Macy's, considering what it is up against. So I went back to CEO Tony Spring and I asked him what he thought of Jeff Kinney's new and improving Plainville and whether Macy's might consider opening up some kind of store there. We are always open to evaluating different real estate opportunities for retail. I applaud what he's doing. I want vibrant towns across this country. Springs still lives in Westchester County, where he grew up. Westchester has some of the nicest, leafiest suburbs in America, with small town main streets and high median incomes. We probably have more banks and restaurants than anything else, nail salons. I miss the candy store, I miss the bookstore, I miss the record store. Retail is that mix of variety that creates the reason for the stroll and the reason to spend locally. So we want Macy's to be a part of that experience. You know, I wish Jeff the best. I would say follow the adage from Cheers, make sure you know everybody's name. Those little touches make the absolute difference in where you choose to shop again. It's hard to predict the future of Macy's or the future of Plainville, Massachusetts. Tony Spring and Jeff Kinney are both investing a lot in their respective turnarounds, and it's natural to wish them well. On the other hand, people are fickle, markets are fickle, and generally speaking, you don't succeed in the future by trying to mimic the past. But for now, those concerns will have to wait. On Thanksgiving, Spring and Kinney both had a parade to get to. I'll be with my wife. I don't think my kids will come because they'll probably be cooking Thanksgiving and maybe a brother-in-law or sister in law or two and the Macy's leadership family and hopefully some customers and colleagues will sit in the grandstand like many others and will enjoy the parade as it hits thirty fourth Street. There's something really hypnotic about seeing one of those giant helium balloons move between the buildings. It's the outsizedness which is so exciting. It's really cool when you see a giant pop of smurf go by somebody's window or Clifford the big red dog, and you see the scale of the thing. What do you think the parade represents? It's this weirdly old-fashioned traditional event that in a world of much more dazzling modes of entertainment draws 30 million people a year on TV, which is astonishing to me. So what does it feel like to be an essential component of that? It feels like legitimacy to me. It feels like you're making a statement about your brand that you're not just wishing and hoping that you're a part of this. It's like a theory or a thesis that you're saying, I think we belong here. And then after a certain amount of time you say, you know what, we do belong here. This is right. Do you interact with other property creators or representatives at the parade? Aaron Powell I've become friends with Jeannie Schultz, the widow of Charles Schultz, and it's a small club, so it's pretty cool to be a part of that club. Aaron Powell In a battle of balloons, would Greg or Snoopy win? I'm gonna switch the question to be the Muppets. The first year diary of a Wimpy Kid, Greg Hefley was right behind Kermit the Frog. And you think he could have taken him? Well, I was staring down the backside of a frog. And I said, that feels about right to me, you know. We asked Jeff Kinney for an update on his Plainville redevelopment project. He said the construction site we visited last year now has a built-out beer garden with plans to open in the spring. And how is Macy's itself doing? Tony Spring closed 64 Macy's locations this year, and he announced an uptick in earnings in all three brands, Macy's Bloomingdale's and Blue Mercury. Mark Cohen says we will just have to wait to see if that turns out to be a dead cat bounce, as Wall Street skeptics like to call it, or maybe something more. My thanks to everyone who spoke with us for these episodes. Coming up next time on the show. Ultimately, his accounts were reduced to nothing and then he had nothing in the bank. Handel was a public composer. He wasn't composing really for the church. He was really performing. George Friedrich Handel's Messiah is iconic and hugely popular and beautiful. How did it come to exist? And how has it lasted? That's next time on the show. Until then, take care of yourself, and if you can, some.one else too Freeconomics radio is produced by Stitcher and Renbud Radio. You can find our entire archive on any podcast app, also at freeconomics.com, where we publish transcripts and show notes. This episode was produced by Alina Cullman and edited by Ellen Frankman. It was mixed by Jasmine Klinger with help from Eleanor Osborne. We had recording help from George Hicks and research help from Daniel Moritz Rabson. The Free Conomics Radio Network staff also includes Augusta Chapman, Dalvin Abuaji, Elsa Hernandez, Gabriel Roth, Greg Ripon, Elaria Montenecort, Jeremy Johnston, Morgan Levy, Sarah Lilly, Teo Jacobs, and Zach Lipinski. Our theme song is Mr. Fortune by the Hitchhikers and our composer is Luis Guerra. We used to be Slacksville for a time, I think unofficially, and so Plainville seemed like a giant upgrade. The Freeconomics Radio Network, the hidden side of everything. Stitcher. If you're an adult struggling with obesity, if you've struggled for years and years, you are not alone. But Zet Founder's epitide is changing what's possible when it comes to weight loss, along with diet and exercise. Proven to help lose weight and keep it off, Zeppound is a prescription medicine for adults with obesity or some adults with overweight who also have weight-related medical problems. Zep Found should be used with a reduced calorie diet and increased physical activity. Zetbound injection is approved as a 2.5, 5, 7.5, 10, 12.5, or 15 milligrams per 0.5 milliliters in single-dose pen or single-dose file. Don't use with other terzeptide containing products or any GLP1 receptor agonist medicines. It is not known if Zep bound can be used in children. Don't take Zepbound of allergic to it, or if you or someone in your family had medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2. Tell your doctor if you get a lump or swelling in your neck. Stop zebound and call your doctor if you have severe stomach pain or a serious allergic reaction. Severe side effects may include inflamed pancreas or gallbladder problems. Tell your doctor if you experience vision changes, depression, or suicidal thoughts before scheduled procedures with anesthesia, if you're nursing pregnant clan to be or taking birth control pills, taking zephan with a sulfonoluria or insulin may cause low blood sugar. Side effects include nausea, diarrhea, and vomiting, which can cause dehydration and worsen kidney problems. Discover the weight loss you could be bound for. Ask your healthcare provider about ZephBound or call 1-800-545-5979. Explore savings options regardless of insurance status at SaveOnZetBound.com. Terms and Conditions apply. Free Economics Radio is sponsored by Capital One. Nowadays, most people subscribe to everything: music, TV, even dog food, and it rocks until you have to manage it all, which is where Capital One comes in. Capital One credit card holders can easily track, block, or cancel recurring charges right from the Capital One mobile app at no additional cost. With one sign-in, you can manage all your subscriptions all in one place. Learn more at CapitalOne.com slash subscriptions terms and conditions apply. There's a new state-of-the-art center for advanced health care in Westchester. New York Presbyterian The One is now open. Where world-class doctors from Columbia provide expert adult and pediatric care for your family, a center where specialists in cardiology, neurosciences, cancer care, and more work together in one location, providing a seamless patient experience close to home. New York Presbyterian The One. Find a doctor now at nyp.org slash the one."
+}

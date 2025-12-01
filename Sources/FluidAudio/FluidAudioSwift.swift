@@ -8,11 +8,7 @@ import OSLog
 
 // MARK: - Backward Compatibility
 
-/// Backward compatibility alias for the old config name
-public typealias SpeakerDiarizationConfig = DiarizerConfig
-
-/// Backward compatibility alias for the old error type
-public typealias SpeakerDiarizationError = DiarizerError
+// Typealiases removed as Diarizer module has been removed
 
 // The Swift Programming Language
 // https://docs.swift.org/swift-book

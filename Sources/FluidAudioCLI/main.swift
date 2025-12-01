@@ -13,25 +13,16 @@ func printUsage() {
         Usage: fluidaudio <command> [options]
 
         Commands:
-            process                 Process a single audio file for diarization
-            diarization-benchmark   Run diarization benchmark
-            vad-benchmark           Run VAD-specific benchmark
-            vad-analyze             Inspect VAD segmentation and streaming events
             asr-benchmark           Run ASR benchmark on LibriSpeech
             fleurs-benchmark        Run multilingual ASR benchmark on FLEURS dataset
             transcribe              Transcribe audio file using streaming ASR
             multi-stream            Transcribe multiple audio files in parallel
-            tts                     Synthesize speech from text using Kokoro TTS
             download                Download evaluation datasets
             help                    Show this help message
 
         Run 'fluidaudio <command> --help' for command-specific options.
 
         Examples:
-            fluidaudio process audio.wav --output results.json
-
-            fluidaudio diarization-benchmark --single-file ES2004a
-
             fluidaudio asr-benchmark --subset test-clean --max-files 100
             
             fluidaudio fleurs-benchmark --languages en_us,fr_fr --samples 10
@@ -40,10 +31,6 @@ func printUsage() {
 
             fluidaudio multi-stream audio1.wav audio2.wav
             
-            fluidaudio tts "Hello world" --output hello.wav
-
-            fluidaudio vad-analyze audio.wav --streaming
-
             fluidaudio download --dataset ami-sdm
         """
     )
@@ -117,10 +104,6 @@ Task {
     }
 
     switch command {
-    case "vad-benchmark":
-        await VadBenchmark.runVadBenchmark(arguments: Array(arguments.dropFirst(2)))
-    case "vad-analyze":
-        await VadAnalyzeCommand.run(arguments: Array(arguments.dropFirst(2)))
     case "asr-benchmark":
         await ASRBenchmark.runASRBenchmark(arguments: Array(arguments.dropFirst(2)))
     case "fleurs-benchmark":
@@ -129,14 +112,6 @@ Task {
         await TranscribeCommand.run(arguments: Array(arguments.dropFirst(2)))
     case "multi-stream":
         await MultiStreamCommand.run(arguments: Array(arguments.dropFirst(2)))
-
-    case "tts":
-        await TTS.run(arguments: Array(arguments.dropFirst(2)))
-
-    case "diarization-benchmark":
-        await StreamDiarizationBenchmark.run(arguments: Array(arguments.dropFirst(2)))
-    case "process":
-        await ProcessCommand.run(arguments: Array(arguments.dropFirst(2)))
     case "download":
         await DownloadCommand.run(arguments: Array(arguments.dropFirst(2)))
     case "help", "--help", "-h":
